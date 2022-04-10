@@ -1,4 +1,4 @@
-# Standard Classifications
+## Standard Classifications
 
 **TSCE** - Talentli Standard Classification of Educational Programs  
   **A** - Sectors  
