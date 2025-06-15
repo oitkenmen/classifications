@@ -1,18 +1,18 @@
-## Standard Classifications
+## Open Classifications
 
-**TSCE** - Talentli Standard Classification of Educational Programs  
+Open Classification of Educational Programs  
   **A** - Sectors  
   **B** - Groups  
   **C** - Classes  
   **D** - Detailed  
   
-**TSCI** - Talentli Standard Classification of Industries  
+Open Classification of Industries  
   **A** - Sectors  
   **B** - Groups  
   **C** - Classes  
   **D** - Detailed  
   
-**TSCO** - Talentli Standard Classification of Occupations  
+Open Classification of Occupations  
   **A** - Sectors  
   **B** - Groups  
   **C** - Classes  
