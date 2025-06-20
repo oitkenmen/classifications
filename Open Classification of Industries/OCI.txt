@@ -1,0 +1,831 @@
+﻿Open Classification of Industries
+
+
+
+A SECTORS
+
+01 Agriculture, Aquaculture, Forestry, and Related
+02 Extraction, Mining, Quarrying
+03 Construction
+04 Manufacturing
+05 Transportation, Warehousing, Delivery
+06 Wholesale and Retail Trade
+07 Hospitality (HoReCa)
+08 Arts, Culture, Entertainment, Recreation, Sports
+09 Information and Communication Technologies (ICT)
+10 Professional, Scientific, Technical Services and Consultancy
+11 Business and Facilities Support
+12 Other Services
+13 Finance and Insurance
+14 Real Estate, Rental and Leasing
+15 Membership Organizations
+16 Education
+17 Healthcare and Welfare
+18 Utilities
+19 Waste Management, Materials Recovery, Remediation
+99 Government
+
+
+
+Goods-Producing Industries
+
+Natural Resources
+01 Agriculture, Aquaculture, Forestry, and Related
+02 Extraction, Mining, Quarrying
+
+Construction
+03 Construction
+
+Manufacturing
+04 Manufacturing
+
+
+
+Service-Providing Industries
+
+Transportation and Trade
+05 Transportation, Warehousing, Delivery
+06 Wholesale and Retail Trade
+
+Hospitality (HoReCa)
+07 Hospitality (HoReCa)
+
+Arts, Culture, Entertainment, Recreation, Sports
+08 Arts, Culture, Entertainment, Recreation, Sports
+
+Information and Communication Technologies (ICT)
+09 Information and Communication Technologies (ICT)
+
+Professional and Business Services
+10 Professional, Scientific, Technical Services and Consultancy
+11 Business and Facilities Support
+12 Other Services
+
+Financial Activities
+13 Finance and Insurance
+14 Real Estate, Rental and Leasing
+
+Social Services
+15 Membership Organizations
+16 Education
+17 Healthcare and Welfare
+18 Utilities
+19 Waste Management, Materials Recovery, Remediation
+
+Government
+99 Government
+
+
+
+B GROUPS
+
+01 Agriculture, Aquaculture, Forestry, and Related
+0101 Agriculture - Mixed Farming
+0102 Agriculture - Animal Farming and Related
+0103 Agriculture - Crop Farming, Non-Perennial Crops
+0104 Agriculture - Crop Farming, Perennial Crops
+0105 Apiculture
+0106 Aquaculture and Related
+0107 Forestry and Related
+0199 Support Activities
+
+02 Extraction, Mining, Quarrying
+0201 Extraction
+0202 Mining
+0203 Other Extraction, Mining, and Quarrying
+0299 Support Activities
+
+03 Construction
+0301 Building Construction
+0302 Civil Engineering Construction
+0399 Specialized Activities
+
+04 Manufacturing
+0401 Food
+0402 Beverages
+0403 Pharmaceuticals and Tobacco
+
+0411 Fur and Related Products
+0412 Leather and Related Products
+0413 Textiles and Related Products
+0414 Apparel, Footwear, and Related Products
+0415 Handbags, Luggage, and Related Products
+
+0421 Wood and Related Products
+0422 Paper and Related Products
+0423 Metals and Related Products
+0424 Glass and Related Products
+0425 Non-Metallic Mineral Products (excl. Glass)
+0426 Plastics and Related Products
+0427 Rubber and Related Products
+0428 Chemicals and Related Products
+0429 Coke and Refined Petroleum
+
+0431 Transport and Related Products
+0432 Industrial Machinery, Equipment, and Tools - General
+0433 Industrial Machinery, Equipment, and Tools - Special
+0434 Office Machinery, Equipment, and Tools
+0435 Electric Appliances
+0436 Electronic Appliances
+0437 Wiring and Related Products
+0438 Furniture and Related Products
+0439 Other Products
+
+05 Transportation, Warehousing, Delivery
+0501 Space Transportation
+0502 Air Transportation
+0503 Railroad Transportation
+0504 Road Transportation
+0505 Water Transportation
+0506 Pipeline Transportation
+0507 Warehousing
+0508 Delivery
+0599 Support Activities
+
+06 Wholesale and Retail Trade
+0601 Wholesale Trade on a Fee or Contract Basis
+0602 Non-Specialized Wholesale Trade
+0603 Specialized Wholesale Trade
+0604 Wholesale and Retail Trade of Transport
+0605 Specialized Retail Trade
+0606 Non-Specialized Retail Trade
+0607 Retail Trade via Markets
+0608 Retail Trade via Internet and Other Means
+
+07 Hospitality (HoReCa)
+0701 Accommodation
+0702 Food and Beverage
+
+08 Arts, Culture, Entertainment, Recreation, Sports
+0801 Independent Public Figures (Celebrities)
+0802 Arts
+0803 Culture
+0804 Entertainment
+0805 Recreation
+0806 Sports
+0899 Support Activities
+
+09 Information and Communication Technologies (ICT)
+0901 Audio and Video Production, Post-Production, Publishing, and Related
+0902 Digital Production, Post-Production, Publishing, and Related
+0903 Print Production, Post-Production, Publishing, and Related
+0904 Programming and Broadcasting
+0905 Telecommunications
+
+10 Professional, Scientific, Technical Services and Consultancy
+1001 Services and Consultancy in Business
+1002 Services and Consultancy in Architecture and Engineering 
+1003 Services and Consultancy in Design
+1004 Services and Consultancy in Information Technology (IT)
+1005 Services and Consultancy in Other Fields
+1006 Research and Development (R&D)
+
+11 Business and Facilities Support
+1101 Business Support Services
+1102 Facilities Support Services
+
+12 Other Services
+1201 Maintenance and Repair
+1202 Investigation and Security
+1203 Travel Arrangement and Reservation
+1204 Personal Services
+
+13 Finance and Insurance
+1301 Financial Services
+1302 Insurance and Reinsurance
+1399 Auxiliary Activities
+
+14 Real Estate, Rental and Leasing
+1401 Real Estate
+1402 Rental and Leasing
+
+15 Membership Organizations
+1501 Membership Organizations
+
+16 Education
+1601 Pre-Primary Education
+1602 Primary Education
+1603 Secondary Education
+1604 Tertiary Education
+1605 Other Education
+1699 Support Activities
+
+17 Healthcare and Welfare
+1701 Health Care Services (with or without accomodation)
+1702 Residential Care Services (with accomodation)
+1703 Social Assistance (without accomodation)
+1704 Veterinary and Pet Care
+
+18 Utilities
+1801 Cooling and Heating
+1802 Electricity
+1803 Gas
+1804 Water
+
+19 Waste Management, Materials Recovery, Remediation
+1901 Waste Collection
+1902 Waste Treatment and Disposal
+1903 Materials Recovery
+1904 Remediation and Other Services
+
+99 Government
+9999 Government
+
+
+
+C CLASSES
+
+01 Agriculture, Aquaculture, Forestry, and Related
+0101 Agriculture - Mixed Farming
+010101 Agriculture - Mixed Farming
+
+0102 Agriculture - Animal Farming and Related
+010201 Farming of Cattle
+010202 Farming of Horses and Other Equines
+010203 Farming of Pigs
+010204 Farming of Poultry
+010205 Farming of Sheep and Goats
+010206 Farming of Other Animals
+010207 Hunting, Trapping, and Related Services
+
+0103 Agriculture - Crop Farming, Non-Perennial Crops
+010301 Growing of Cereals (excl. Rice), Leguminous Crops, and Oil Seeds
+010302 Growing of Fibre Crops
+010303 Growing of Flowers
+010304 Growing of Mushrooms and Truffles
+010305 Growing of Rice
+010306 Growing of Sugar Cane
+010307 Growing of Tobacco
+010308 Growing of Vegetables and Melons, Roots and Tubers
+010309 Growing of Other Non-Perennial Crops
+
+0104 Agriculture - Crop Farming, Perennial Crops
+010401 Growing of Aromatic Crops, Pharmaceutical Crops, Spices
+010402 Growing of Berries
+010403 Growing of Beverage Crops
+010404 Growing of Citrus Fruits
+010405 Growing of Grapes
+010406 Growing of Nuts
+010407 Growing of Oleaginous Fruits
+010408 Growing of Pome Fruits and Stone Fruits
+010409 Growing of Tropical and Subtropical Fruits
+010410 Growing of Other Perennial Crops
+
+0105 Apiculture
+010501 Farming of Bees
+
+0106 Aquaculture and Related
+010601 Aquaculture
+010602 Fishing and Related Services
+
+0107 Forestry and Related
+010701 Gathering of Non-Wood Forest Products
+010702 Logging
+010703 Silviculture and Other Activities
+
+0199 Support Activities
+019901 Support Activities for Animal Farming
+019902 Support Activities for Crop Farming
+019903 Plant Propagation
+019904 Post-Harvest Crop Activities
+019905 Seed Processing for Propagation
+019906 Support Activities to Forestry
+
+02 Extraction, Mining, Quarrying
+0201 Extraction
+020101 Extraction of Crude Oil and Natural Gas
+
+0202 Mining
+020201 Mining of Hard Coal and Lignite
+020202 Mining of Ferrous Metal Ores
+020203 Mining of Non-Ferrous Metal Ores
+
+0203 Other Extraction, Mining, and Quarrying
+020301 Other Extraction, Mining, and Quarrying
+
+0299 Support Activities
+029901 Support Activities for Extraction of Oil and Gas
+029902 Support Activities - Other
+
+03 Construction
+0301 Building Construction
+030101 Building Construction - Non-Residential, Non-Industrial
+030102 Building Construction - Non-Residential, Industrial
+030103 Building Construction – Residential
+
+0302 Civil Engineering Construction
+030201 Civil Engineering Construction - Roads, Railroads, Bridges, Tunnels, and Related
+030202 Civil Engineering Construction - Utility Systems
+030203 Civil Engineering Construction – Other
+
+0399 Specialized Activities
+039901 Specialized Activities - Building Completion and Finishing
+039902 Specialized Activities - Building Equipment Installation
+039903 Specialized Activities - Demolition and Site Preparation
+039904 Specialized Activities - Other
+
+04 Manufacturing
+0401 Food
+040101 Food - Animal Feeds
+040102 Food - Meat
+040103 Food - Fish and Other Seafood
+040104 Food - Fruits, Nuts, Vegetables
+040105 Food - Fats and Oils
+040106 Food - Dairy Products
+040107 Food - Grain Products
+040108 Food - Bakery Products
+040109 Food - Noodles, Pasta, and Related
+040110 Food - Chocolate, Confectionery, Sugar
+040111 Food - Prepared Meals
+040112 Food – Other
+
+0402 Beverages
+040201 Beverages - Non-Alcohol
+040202 Beverages – Alcohol
+
+0403 Pharmaceuticals and Tobacco
+040301 Pharmaceuticals and Related Products
+040302 Tobacco and Related Products
+
+0411 Fur and Related Products
+041101 Fur and Related Products
+
+0412 Leather and Related Products
+041201 Leather and Related Products
+
+0413 Textiles and Related Products
+041301 Textiles - Preparation and Spinning of Fibres
+041302 Textiles - Weaving
+041303 Textiles - Finishing
+041304 Textile Products - Carpets, Mats, Rugs, Tiles
+041305 Textile Products - Cordage, Netting, Rope, Twine
+041306 Textile Products - Crocheted and Knitted Fabrics
+041307 Textile Products - Made-Up Textile Articles (excl. Apparel)
+041308 Textile Products – Other
+
+0414 Apparel, Footwear, and Related Products
+041401 Apparel, Footwear, and Related Products
+
+0415 Handbags, Luggage, and Related Products
+041501 Handbags, Luggage, and Related Products
+
+0421 Wood and Related Products
+042101 Wood - Sawmilling and Planing
+042102 Wood Products - Boards and Panels
+042103 Wood Products - Boxes, Crates, Pallets, and Related
+042104 Wood Products - Carpentry and Joinery
+042105 Wood Products – Other
+
+0422 Paper and Related Products
+042201 Paper, Paperboard, and Pulp
+042202 Paper Products - Bags, Boxes, Trays, and Related
+042203 Paper Products – Other
+
+0423 Metals and Related Products
+042301 Metals - Basic Ferrous Metals
+042302 Metals - Basic Non-Ferrous Metals
+042303 Metals - Casting of Ferrous Metals
+042304 Metals - Casting of Non-Ferrous Metals
+042305 Metals - Diverse Treatment
+042306 Metal Products - Ammunition and Weapons
+042307 Metal Products - Boilers, Reservoirs, Tanks, and Related
+042308 Metal Products - Cutlery, Hand Tools, and General Hardware
+042309 Metal Products - Powder Metallurgy
+042310 Metal Products - Steam Generators (excl. Boilers)
+042311 Metal Products - Structural Articles
+042312 Metal Products – Other
+
+0424 Glass and Related Products
+042401 Glass and Related Products
+
+0425 Non-Metallic Mineral Products (excl. Glass)
+042501 Non-Metallic Mineral Products - Cement, Lime, and Plaster
+042502 Non-Metallic Mineral Products - Clay Building Materials
+042503 Non-Metallic Mineral Products - Porcelain and Other Ceramics
+042504 Non-Metallic Mineral Products - Refractory Articles
+042505 Non-Metallic Mineral Products - Stone
+042506 Non-Metallic Mineral Products – Other
+
+0426 Plastics and Related Products
+042601 Plastics and Related Products
+
+0427 Rubber and Related Products
+042701 Rubber and Related Products - Tires and Tubes
+042702 Rubber and Related Products – Other
+
+0428 Chemicals and Related Products
+042801 Basic Chemicals
+042802 Chemical Products - Cleaning and Polishing, Detergents, Perfumes, and Related
+042803 Chemical Products - Fertilizers and Nitrogen Compounds
+042804 Chemical Products - Inks, Mastics, Paints, and Related
+042805 Chemical Products - Man-Made Fibres
+042806 Chemical Products - Pesticides and Other Agrochemical Products
+042807 Chemical Products - Plastics and Synthetic Rubber in Primary Forms
+042808 Chemical Products – Other
+
+0429 Coke and Refined Petroleum
+042901 Coke Oven Products
+042902 Refined Petroleum Products
+
+0431 Transport and Related Products
+043101 Space Transport, Parts and Supplies
+043102 Air Transport, Parts and Supplies
+043103 Railroad Transport, Parts and Supplies
+043104 Road Transport, Parts and Supplies
+043105 Water Transport, Parts and Supplies
+
+0432 Industrial Machinery, Equipment, and Tools - General
+043201 Bearings and Gears, Driving and Gearing Elements
+043202 Burners, Furnaces, Heaters, Ovens, and Related
+043203 Compressors, Pumps, Taps, and Valves
+043204 Engines and Turbines (excl. Transport Engines)
+043205 Fluid Power Equipment
+043206 Handling, Lifting, Loading or Unloading Machinery and Equipment
+043207 Power-Driven Hand Tools
+043208 Other General Industrial Machinery, Equipment, and Tools
+
+0433 Industrial Machinery, Equipment, and Tools - Special
+043301 For Agriculture and Forestry
+043302 For Apparel, Leather, and Textile Production
+043303 For Beverage, Food, and Tobacco Processing
+043304 For Construction, Mining, and Quarrying
+043305 For Metallurgy
+043306 Metal-Forming Machinery, Equipment, and Tools
+043307 Other Special Industrial Machinery, Equipment, and Tools
+
+0434 Office Machinery, Equipment, and Tools
+043401 Office Machinery, Equipment, and Tools
+
+0435 Electric Appliances
+043501 Accumulators and Batteries
+043502 Domestic Appliances
+043503 Electric Generators, Motors, Transformers, and Related
+043504 Electric Lighting Equipment
+043505 Other Electric Appliances
+
+0436 Electronic Appliances
+043601 Communication Equipment
+043602 Computers and Related Peripherals
+043603 Consumer Electronics
+043604 Control, Measuring, Navigating, and Testing Equipment
+043605 Electromedical, Electrotherapeutic, and Irradiation Equipment
+043606 Electronic Boards and Components
+043607 Magnetic and Optical Media
+043608 Optical Instruments and Photographic Equipment
+
+0437 Wiring and Related Products
+043701 Wiring and Related Products - Fibre Optic Cables
+043702 Wiring and Related Products - Other Cables and Wires
+043703 Wiring and Related Products - Wiring Devices
+
+0438 Furniture and Related Products
+043801 Furniture and Related Products
+
+0439 Other Products
+043901 Other Products - Clocks and Watches
+043902 Other Products - Jewelry and Related
+043903 Other Products - Medical Instruments and Supplies
+043904 Other Products - Musical Instruments and Supplies
+043905 Other Products - Recreation and Sports Equipment
+043906 Other Products - Toys and Related
+043907 Other Products - Not Elsewhere Classified
+
+05 Transportation, Warehousing, Delivery
+0501 Space Transportation
+050101 Space Transportation - Freight
+050102 Space Transportation – Passenger
+
+0502 Air Transportation
+050201 Air Transportation - Freight
+050202 Air Transportation – Passenger
+
+0503 Railroad Transportation
+050301 Railroad Transportation - Freight
+050302 Railroad Transportation - Passenger - Inter-Urban Rail Transit Systems
+050303 Railroad Transportation - Passenger - Urban Rail Transit Systems
+
+0504 Road Transportation
+050401 Road Transportation - Freight
+050402 Road Transportation - Passenger - Inter-Urban and Rural Bus Transit Systems
+050403 Road Transportation - Passenger - Urban Bus Transit Systems
+050404 Road Transportation - Passenger - Taxi, Limousine, and Charter Bus Services
+
+0505 Water Transportation
+050501 Water Transportation - Freight
+050502 Water Transportation – Passenger
+
+0506 Pipeline Transportation
+050601 Pipeline Transportation of Crude Oil and Natural Gas
+050602 Pipeline Transportation – Other
+
+0507 Warehousing
+050701 Warehousing
+
+0508 Delivery
+050801 Fast Delivery - Courier Services
+050802 Slow Delivery - Postal Services
+
+0599 Support Activities
+059901 Support Activities for Space Transportation
+059902 Support Activities for Air Transportation
+059903 Support Activities for Railroad Transportation
+059904 Support Activities for Road Transportation
+059905 Support Activities for Water Transportation
+059906 Support Activities for Pipeline Transportation
+059907 Support Activities - Other
+
+06 Wholesale and Retail Trade
+0601 Wholesale Trade on a Fee or Contract Basis
+060101 Wholesale Trade on a Fee or Contract Basis
+
+0602 Non-Specialized Wholesale Trade
+060202 Non-Specialized Wholesale Trade
+
+0603 Specialized Wholesale Trade
+060301 Specialized Wholesale Trade - Agricultural Raw Materials and Live Animals
+060302 Specialized Wholesale Trade - Other Raw Materials
+060303 Specialized Wholesale Trade - Fuels and Related Products
+060304 Specialized Wholesale Trade - Metals and Related Products
+060305 Specialized Wholesale Trade - Machinery, Equipment, and Tools for Agriculture and Related
+060306 Specialized Wholesale Trade - Machinery, Equipment, and Tools for Construction and Related
+060307 Specialized Wholesale Trade - Machinery, Equipment, and Tools Not Elsewhere Classified
+060308 Specialized Wholesale Trade - Information and Communication Technologies (ICT)
+060309 Specialized Wholesale Trade - Household Goods
+060310 Specialized Wholesale Trade - Apparel, Footwear, Textiles, and Related
+060311 Specialized Wholesale Trade - Food and Beverages, Pharmaceuticals and Tobacco
+
+0604 Wholesale and Retail Trade of Transport
+060401 Wholesale and Retail Trade of Transport
+
+0605 Specialized Retail Trade
+060501 Specialized Retail Trade - Automotive Fuel
+060502 Specialized Retail Trade - Information and Communication Technologies (ICT)
+060503 Specialized Retail Trade - Arts, Culture, Entertainment, Recreation, Sports
+060504 Specialized Retail Trade - Household Goods
+060505 Specialized Retail Trade - Apparel, Footwear, Textiles, and Related
+060506 Specialized Retail Trade - Food, Beverages, and Tobacco
+060507 Specialized Retail Trade - Pharmaceuticals and Related Products
+060508 Specialized Retail Trade - Second-Hand Goods
+060509 Specialized Retail Trade - Other Goods
+
+0606 Non-Specialized Retail Trade
+060601 Non-Specialized Retail Trade
+
+0607 Retail Trade via Markets
+060701 Retail Trade via Markets
+
+0608 Retail Trade via Internet and Other Means
+060801 Retail Trade via Internet and Other Means
+
+07 Hospitality (HoReCa)
+0701 Accommodation
+070101 Accommodation - Indoor
+070102 Accommodation - Outdoor
+070103 Accommodation – Other
+
+0702 Food and Beverage
+070201 Food and Beverage - Food and Beverage Serving Places
+070202 Food and Beverage - Beverage Only Serving Places
+070203 Food and Beverage - Event Catering Services
+070204 Food and Beverage - Industrial Catering Services
+
+08 Arts, Culture, Entertainment, Recreation, Sports
+0801 Independent Public Figures (Celebrities)
+080101 Independent Public Figures (Celebrities)
+
+0802 Arts
+080201 Fashion
+080202 Performing Arts - Circus, Concert Halls, Theaters, and Similar Institutions
+080203 Visual Arts - Galleries and Similar Institutions
+
+0803 Culture
+080301 Culture - Libraries and Similar Institutions
+080302 Culture - Museums and Similar Institutions
+
+0804 Entertainment
+080401 Entertainment - Amusement Parks, Aquaparks, Theme Parks
+080402 Entertainment - Arcades, Gambling and Betting, Lotteries
+080403 Entertainment - Movie Theaters
+080404 Entertainment - Night Clubs, Standup Comedy Clubs
+080405 Entertainment - Shopping Centers
+080406 Entertainment – Other
+
+0805 Recreation
+080501 Recreation - Gardens, Parks, Zoos
+080502 Recreation - Outdoor Activities
+
+0806 Sports
+080601 Sports - Spectator Sports Facilities
+080602 Sports - Other Sports Facilities
+080603 Sports - Clubs, Teams, and Events
+
+0899 Support Activities
+089901 Support Activities for Arts, Culture, Entertainment, Recreation, and Sports
+
+09 Information and Communication Technologies (ICT)
+0901 Audio and Video Production, Post-Production, Publishing, and Related
+090101 Audio Production
+090102 Video Production
+
+0902 Digital Production, Post-Production, Publishing, and Related
+090201 Digital Production - Animation
+090202 Digital Production - Games
+090203 Digital Production - Photography
+090204 Digital Production – Software
+
+0903 Print Production, Post-Production, Publishing, and Related
+090301 Print Production - Books
+090302 Print Production - Periodicals
+090303 Print Production – Other
+
+0904 Programming and Broadcasting
+090401 Programming and Broadcasting - Radio
+090402 Programming and Broadcasting – Television
+
+0905 Telecommunications
+090501 Telecommunications - Satellite
+090502 Telecommunications - Wired
+090503 Telecommunications - Wireless
+090504 Telecommunications - Other
+
+10 Professional, Scientific, Technical Services and Consultancy
+1001 Services and Consultancy in Business
+100101 Services and Consultancy in Accounting, Audit, Finance, Tax Preparation
+100102 Services and Consultancy in Advertising, Marketing, Public Relations, Sales
+100103 Services and Consultancy in Management
+100104 Legal Services and Consultancy
+
+1002 Services and Consultancy in Architecture and Engineering 
+100201 Services and Consultancy in Architecture and Engineering
+100202 Technical Testing and Analysis
+
+1003 Services and Consultancy in Design
+100301 Services and Consultancy in Design
+
+1004 Services and Consultancy in Information Technology (IT)
+100401 Computer Software Design and Development
+100402 Computer Systems Design and Development
+100403 Data Processing, Hosting, and Related Services
+
+1005 Services and Consultancy in Other Fields
+100501 Services and Consultancy in Other Fields
+
+1006 Research and Development (R&D)
+100601 Research and Development (R&D) in Social Sciences
+100602 Research and Development (R&D) in Other Sciences
+100603 Research and Development (R&D) - Interdisciplinary
+
+11 Business and Facilities Support
+1101 Business Support Services
+110101 Administrative Support Services
+110102 Call Centers
+110103 Collection Agencies and Credit Bureaus
+110104 Conferences, Conventions, Exhibitions, Trade Shows, and Related
+110105 Employment Services
+110106 Packaging Services
+110107 Printing and Related Services
+
+1102 Facilities Support Services
+110201 Facilities Support Services - Combined
+110202 Facilities Support Services - Cleaning
+110203 Facilities Support Services - Landscape Care and Maintenance
+
+12 Other Services
+1201 Maintenance and Repair (incl. Installation and Deinstallation)
+120101 Maintenance and Repair - Transport
+120102 Maintenance and Repair - Industrial Machinery, Equipment, and Tools
+120103 Maintenance and Repair - Professional Equipment and Tools
+120104 Maintenance and Repair - Personal, Home, and Office Appliances
+120105 Maintenance and Repair - Furniture, Textiles, Toys, and Related
+120106 Maintenance and Repair - Apparel, Footwear, Luggage, and Related
+120107 Maintenance and Repair - Other Miscellaneous Products
+
+1202 Investigation and Security
+120201 Investigation Services
+120202 Security Services - Private Protection
+120203 Security Services - Security Systems
+
+1203 Travel Arrangement and Reservation
+120301 Travel Arrangement and Reservation
+
+1204 Personal Services
+120401 Personal Services - Beauty and Personal Care
+120402 Personal Services - Drycleaning and Laundry
+120403 Personal Services - Funeral Services
+120404 Personal Services - Other
+
+13 Finance and Insurance
+1301 Financial Services
+130101 Financial Services - Funds, Trusts, and Similar Entities
+130102 Financial Services - Holdings
+130103 Financial Services - Intermediaries
+130104 Financial Services – Other
+
+1302 Insurance and Reinsurance
+130201 Insurance Services - Life
+130202 Insurance Services - Non-Life
+130203 Reinsurance Services
+
+1399 Auxiliary Activities
+139901 Activities Auxiliary to Financial Services
+139902 Activities Auxiliary to Insurance and Reinsurance
+139903 Fund Management Services
+
+14 Real Estate, Rental and Leasing
+1401 Real Estate
+140101 Real Estate - Services on a Fee or Contract Basis
+140102 Real Estate - Services with Own or Leased Property
+
+1402 Rental and Leasing
+140201 Rental and Leasing - Animals
+140202 Rental and Leasing - Transport
+140203 Rental and Leasing - Industrial Machinery, Equipment, and Tools
+140204 Rental and Leasing - Professional Equipment and Tools
+140205 Rental and Leasing - Personal, Home, and Office Appliances
+140206 Rental and Leasing - Furniture, Textiles, and Related
+140207 Rental and Leasing - Apparel, Footwear, Luggage, and Related
+140208 Rental and Leasing - Other Miscellaneous Products
+140209 Rental and Leasing - Intangible Assets
+
+15 Membership Organizations
+1501 Membership Organizations
+150101 Membership Organizations - Business and Related
+150102 Membership Organizations - Political
+150103 Membership Organizations - Religious
+150104 Membership Organizations - Social
+150105 Membership Organizations - Other
+
+16 Education
+1601 Pre-Primary Education
+160101 Pre-Primary Education
+
+1602 Primary Education
+160201 Primary Education
+
+1603 Secondary Education
+160301 Secondary Education
+
+1604 Tertiary Education
+160401 Tertiary Education
+
+1605 Other Education
+160501 Other Education - Arts, Culture, Entertainment, Languages
+160502 Other Education - Recreation and Sports
+160503 Other Education - Technical and Vocational Education
+160504 Other Education - Not Elsewhere Classified
+
+1699 Support Activities
+169901 Support Activities for Education
+
+17 Healthcare and Welfare
+1701 Health Care Services (with or without accomodation)
+170101 Health Care Services - Clinics and Hospitals
+170102 Health Care Services - Medical and Dental Practices
+170103 Health Care Services - Medical and Diagnostic Laboratories
+170104 Health Care Services – Other
+
+1702 Residential Care Services (with accomodation)
+170201 Residential Care Services for Mental Health, Mental Retardation, and Substance Abuse
+170202 Residential Care Services for the Elderly and Disabled
+170203 Residential Care Services - Nursing Care Facilities
+170204 Residential Care Services – Other
+
+1703 Social Assistance (without accomodation)
+170301 Social Assistance for the Elderly and Disabled
+170302 Social Assistance - Individual, Family, and Community Services
+
+1704 Veterinary and Pet Care
+170401 Veterinary Services
+170402 Pet Care Services
+
+18 Utilities
+1801 Cooling and Heating
+180101 Cooling and Heating
+
+1802 Electricity
+180201 Electricity - Electric Power Generation, Transmission, and Distribution
+
+1803 Gas
+180301 Gas - Natural Gas Distribution
+
+1804 Water
+180401 Water - Water Collection, Treatment, and Distribution
+
+19 Waste Management, Materials Recovery, Remediation
+1901 Waste Collection
+190101 Waste Collection - Non-Hazardous Waste
+190102 Waste Collection - Hazardous Waste
+
+1902 Waste Treatment and Disposal
+190201 Waste Treatment and Disposal - Non-Hazardous Waste
+190202 Waste Treatment and Disposal - Hazardous Waste
+
+1903 Materials Recovery
+190301 Materials Recovery
+
+1904 Remediation and Other Services
+190401 Remediation and Other Services
+
+99 Government
+9999 Government
+999999 Government
