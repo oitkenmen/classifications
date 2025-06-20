@@ -1,0 +1,213 @@
+{"id":"0",    "title":"Open Classification of Educational Programs","sectors":[
+
+
+
+{"id":"00",   "title":"Generic Programs and Qualifications","groups":[
+{"id":"001",  "title":"Basic Programs and Qualifications","classes":[
+{"id":"0011", "title":"Basic Programs and Qualifications"}]},
+
+{"id":"002",  "title":"Literacy and Numeracy","classes":[
+{"id":"0021", "title":"Literacy and Numeracy"}]},
+
+{"id":"003",  "title":"Personal Skills","classes":[
+{"id":"0031", "title":"Personal Skills"}]}]},
+
+
+
+{"id":"01",   "title":"Agriculture, Aquaculture, Forestry, and Related","groups":[
+{"id":"010",  "title":"Interdisciplinary Programs and Qualifications","classes":[
+{"id":"0100", "title":"Interdisciplinary Programs and Qualifications"}]},
+
+{"id":"011",  "title":"Agriculture and Related","classes":[
+{"id":"0111", "title":"Animal and Crop Farming"},
+{"id":"0112", "title":"Horticulture and Related"}]},
+
+{"id":"012",  "title":"Aquaculture and Related","classes":[
+{"id":"0121", "title":"Aquaculture and Related"}]},
+
+{"id":"013",  "title":"Forestry and Related","classes":[
+{"id":"0131", "title":"Forestry and Related"}]}]},
+
+
+
+{"id":"02",   "title":"Architecture, Construction, Engineering, Extraction, Manufacturing","groups":[
+{"id":"020",  "title":"Interdisciplinary Programs and Qualifications","classes":[
+{"id":"0200", "title":"Interdisciplinary Programs and Qualifications"}]},
+
+{"id":"021",  "title":"Architecture, Construction, and Related","classes":[
+{"id":"0211", "title":"Architecture and Planning"},
+{"id":"0212", "title":"Building Construction and Civil Engineering"}]},
+
+{"id":"022",  "title":"Engineering and Related","classes":[
+{"id":"0221", "title":"Chemical Engineering and Processes"},
+{"id":"0222", "title":"Environmental Protection"},
+{"id":"0223", "title":"Electricity and Energy"},
+{"id":"0224", "title":"Electronics and Automation"},
+{"id":"0225", "title":"Mechanical Engineering and Metal Trades"},
+{"id":"0226", "title":"Transportation Engineering"},
+{"id":"0229", "title":"Engineering and Related, Not Elsewhere Classified"}]},
+
+{"id":"023",  "title":"Extraction, Mining, Quarrying","classes":[
+{"id":"0231", "title":"Extraction, Mining, Quarrying"}]},
+
+{"id":"024",  "title":"Manufacturing and Processing","classes":[
+{"id":"0241", "title":"Food and Beverage Processing"},
+{"id":"0242", "title":"Materials (Glass, Paper, Plastic, Wood, and Related)"},
+{"id":"0243", "title":"Textiles (Clothes, Footwear, Leather, and Related)"}]}]},
+
+
+
+{"id":"03",   "title":"Business, Law, and Related","groups":[
+{"id":"030",  "title":"Interdisciplinary Programs and Qualifications","classes":[
+{"id":"0300", "title":"Interdisciplinary Programs and Qualifications"}]},
+
+{"id":"031",  "title":"Accounting, Finance, and Related","classes":[
+{"id":"0311", "title":"Accounting, Audit, and Taxation"},
+{"id":"0312", "title":"Banking, Finance, and Insurance"}]},
+
+{"id":"032",  "title":"Advertising, Marketing, Public Relations","classes":[
+{"id":"0321", "title":"Advertising, Marketing, Public Relations"}]},
+
+{"id":"033",  "title":"Law and Related","classes":[
+{"id":"0331", "title":"Law and Related"}]},
+
+{"id":"034",  "title":"Management, Administration, and Related","classes":[
+{"id":"0341", "title":"Management and Administration"},
+{"id":"0342", "title":"Secretarial and Office Work"},
+{"id":"0343", "title":"Workplace Skills"}]},
+
+{"id":"035",  "title":"Wholesale and Retail Trade","classes":[
+{"id":"0351", "title":"Wholesale and Retail Trade"}]}]},
+
+
+
+{"id":"04",   "title":"Education","groups":[
+{"id":"040",  "title":"Interdisciplinary Programs and Qualifications","classes":[
+{"id":"0400", "title":"Interdisciplinary Programs and Qualifications"}]},
+
+{"id":"041",  "title":"Education","classes":[
+{"id":"0411", "title":"Education Science"},
+{"id":"0412", "title":"Training for Pre-School Teachers"},
+{"id":"0413", "title":"Training for Teachers without Subject Specialisation"},
+{"id":"0414", "title":"Training for Teachers with Subject Specialisation"}]}]},
+
+
+
+{"id":"05",   "title":"Healthcare, Welfare, and Veterinary","groups":[
+{"id":"050",  "title":"Interdisciplinary Programs and Qualifications","classes":[
+{"id":"0500", "title":"Interdisciplinary Programs and Qualifications"}]},
+
+{"id":"051",  "title":"Healthcare","classes":[
+{"id":"0511", "title":"Dental Studies"},
+{"id":"0512", "title":"Medicine"},
+{"id":"0513", "title":"Nursing and Midwifery"},
+{"id":"0514", "title":"Medical Diagnostic and Treatment Technology"},
+{"id":"0515", "title":"Pharmacy"},
+{"id":"0516", "title":"Therapy and Rehabilitation"},
+{"id":"0517", "title":"Traditional and Complementary Medicine"}]},
+
+{"id":"052",  "title":"Welfare","classes":[
+{"id":"0521", "title":"Care of the Elderly and Disabled"},
+{"id":"0522", "title":"Child Care and Youth Services"},
+{"id":"0523", "title":"Occupational Health and Safety"},
+{"id":"0524", "title":"Social Work and Counselling"}]},
+
+{"id":"053",  "title":"Veterinary","classes":[
+{"id":"0531", "title":"Veterinary"}]}]},
+
+
+
+{"id":"06",   "title":"Information Technology","groups":[
+{"id":"060",  "title":"Interdisciplinary Programs and Qualifications","classes":[
+{"id":"0600", "title":"Interdisciplinary Programs and Qualifications"}]},
+
+{"id":"061",  "title":"Information Technology","classes":[
+{"id":"0611", "title":"Computer and Software Use"},
+{"id":"0612", "title":"Database and Network Design and Administration"},
+{"id":"0613", "title":"Software and Game Design and Development"},
+{"id":"0619", "title":"Information Technology (IT), Not Elsewhere Classified"}]}]},
+
+
+
+{"id":"07",   "title":"Mathematical and Natural Sciences","groups":[
+{"id":"070",  "title":"Interdisciplinary Programs and Qualifications","classes":[
+{"id":"0700", "title":"Interdisciplinary Programs and Qualifications"}]},
+
+{"id":"071",  "title":"Mathematical Sciences and Related","classes":[
+{"id":"0711", "title":"Mathematical Sciences"},
+{"id":"0712", "title":"Statistics and Related"}]},
+
+{"id":"072",  "title":"Biological Sciences and Related","classes":[
+{"id":"0721", "title":"Biological Sciences"},
+{"id":"0722", "title":"Biochemistry and Related"}]},
+
+{"id":"073",  "title":"Environmental Sciences and Related","classes":[
+{"id":"0731", "title":"Environmental Sciences"},
+{"id":"0732", "title":"Natural Environments and Wildlife"}]},
+
+{"id":"074",  "title":"Physical Sciences and Related","classes":[
+{"id":"0741", "title":"Chemistry"},
+{"id":"0742", "title":"Earth Sciences"},
+{"id":"0743", "title":"Physics and Space Sciences"}]}]},
+
+
+
+{"id":"08",   "title":"Social and Behavioral Sciences","groups":[
+{"id":"080",  "title":"Interdisciplinary Programs and Qualifications","classes":[
+{"id":"0800", "title":"Interdisciplinary Programs and Qualifications"}]},
+
+{"id":"081",  "title":"Social and Behavioral Sciences","classes":[
+{"id":"0811", "title":"Economics and Related"},
+{"id":"0812", "title":"Political Sciences and Related"},
+{"id":"0813", "title":"Psychology and Related"},
+{"id":"0814", "title":"Sociology and Cultural Studies"}]}]},
+
+
+
+{"id":"09",   "title":"Arts, Design, Humanities, Media, and Related","groups":[
+{"id":"090",  "title":"Interdisciplinary Programs and Qualifications","classes":[
+{"id":"0900", "title":"Interdisciplinary Programs and Qualifications"}]},
+
+{"id":"091",  "title":"Arts, Design, and Related","classes":[
+{"id":"0911", "title":"Design"},
+{"id":"0912", "title":"Fine Arts"},
+{"id":"0913", "title":"Handicrafts"},
+{"id":"0914", "title":"Music and Performing Arts"}]},
+
+{"id":"092",  "title":"Humanities (excl. Languages)","classes":[
+{"id":"0921", "title":"History and Archeology"},
+{"id":"0922", "title":"Philosophy and Ethics"},
+{"id":"0923", "title":"Religion and Theology"}]},
+
+{"id":"093",  "title":"Languages","classes":[
+{"id":"0931", "title":"Language Acquisition"},
+{"id":"0932", "title":"Literature and Linguistics"}]},
+
+{"id":"094",  "title":"Media and Related","classes":[
+{"id":"0941", "title":"Audio-Video, Digital, and Print Production"},
+{"id":"0942", "title":"Journalism and Reporting"},
+{"id":"0943", "title":"Libraries, Museums, and Related"}]}]},
+
+
+
+{"id":"10",   "title":"Other Fields","groups":[
+{"id":"100",  "title":"Interdisciplinary Programs and Qualifications","classes":[
+{"id":"1000", "title":"Interdisciplinary Programs and Qualifications"}]},
+
+{"id":"101",  "title":"Hospitality, Leisure, and Tourism","classes":[
+{"id":"1011", "title":"Hospitality, Leisure, and Tourism"}]},
+
+{"id":"102",  "title":"Personal, Domestic, and Community Services","classes":[
+{"id":"1021", "title":"Beauty Services"},
+{"id":"1022", "title":"Domestic Services"},
+{"id":"1023", "title":"Community Services"}]},
+
+{"id":"103",  "title":"Transportation and Delivery Services","classes":[
+{"id":"1031", "title":"Transportation and Delivery Services"}]},
+
+{"id":"104",  "title":"Security Services","classes":[
+{"id":"1041", "title":"Civil and Private Protection"},
+{"id":"1042", "title":"Military and Defence"}]},
+
+{"id":"105",  "title":"Sports","classes":[
+{"id":"1051", "title":"Sports"}]}]}]}
