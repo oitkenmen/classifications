@@ -1,1 +1,282 @@
+Open Classification of Educational Programs
+
+
+
+A SECTORS
+
+00 Generic Programs and Qualifications
+01 Agriculture, Aquaculture, Forestry, and Related
+02 Architecture, Construction, Engineering, Extraction, Manufacturing
+03 Business, Law, and Related
+04 Education
+05 Healthcare, Welfare, and Veterinary
+06 Information Technology (IT)
+07 Mathematical and Natural Sciences
+08 Social and Behavioral Sciences
+09 Arts, Design, Humanities, Media, and Related
+10 Other Fields
+
+
+
+B GROUPS
+
+00 Generic Programs and Qualifications
+001 Basic Programs and Qualifications
+002 Literacy and Numeracy
+003 Personal Skills
+
+01 Agriculture, Aquaculture, Forestry, and Related
+010 Interdisciplinary Programs and Qualifications
+011 Agriculture and Related
+012 Aquaculture and Related
+013 Forestry and Related
+
+02 Architecture, Construction, Engineering, Extraction, Manufacturing
+020 Interdisciplinary Programs and Qualifications
+021 Architecture, Construction, and Related
+022 Engineering and Related
+023 Extraction, Mining, Quarrying
+024 Manufacturing and Processing
+
+03 Business, Law, and Related
+030 Interdisciplinary Programs and Qualifications
+031 Accounting, Finance, and Related
+032 Advertising, Marketing, Public Relations
+033 Law and Related
+034 Management, Administration, and Related
+035 Wholesale and Retail Trade
+
+04 Education
+040 Interdisciplinary Programs and Qualifications
+041 Education
+
+05 Healthcare, Welfare, and Veterinary
+050 Interdisciplinary Programs and Qualifications
+051 Healthcare
+052 Welfare
+053 Veterinary
+
+06 Information Technology (IT)
+060 Interdisciplinary Programs and Qualifications
+061 Information Technology (IT)
+
+07 Mathematical and Natural Sciences
+070 Interdisciplinary Programs and Qualifications
+071 Mathematical Sciences and Related
+072 Biological Sciences and Related
+073 Environmental Sciences and Related
+074 Physical Sciences and Related
+
+08 Social and Behavioral Sciences
+080 Interdisciplinary Programs and Qualifications
+081 Social and Behavioral Sciences
+
+09 Arts, Design, Humanities, Media, and Related
+090 Interdisciplinary Programs and Qualifications
+091 Arts, Design, and Related
+092 Humanities (excl. Languages)
+093 Languages
+094 Media and Related
+
+10 Other Fields
+100 Interdisciplinary Programs and Qualifications
+101 Hospitality, Leisure, and Tourism
+102 Personal, Domestic, and Community Services
+103 Transportation and Delivery Services
+104 Security Services
+105 Sports
+
+
+
+C CLASSES
+
+00 Generic Programs and Qualifications
+001 Basic Programs and Qualifications
+0011 Basic Programs and Qualifications
+
+002 Literacy and Numeracy
+0021 Literacy and Numeracy
+
+003 Personal Skills
+0031 Personal Skills
+
+01 Agriculture, Aquaculture, Forestry, and Related
+010 Interdisciplinary Programs and Qualifications
+0100 Interdisciplinary Programs and Qualifications
+
+011 Agriculture and Related
+0111 Animal and Crop Farming
+0112 Horticulture and Related
+
+012 Aquaculture and Related
+0121 Aquaculture and Related
+
+013 Forestry and Related
+0131 Forestry and Related
+
+02 Architecture, Construction, Engineering, Extraction, Manufacturing
+020 Interdisciplinary Programs and Qualifications
+0200 Interdisciplinary Programs and Qualifications
+
+021 Architecture, Construction, and Related
+0211 Architecture and Planning
+0212 Building Construction and Civil Engineering
+
+022 Engineering and Related
+0221 Chemical Engineering and Processes
+0222 Environmental Protection
+0223 Electricity and Energy
+0224 Electronics and Automation
+0225 Mechanical Engineering and Metal Trades
+0226 Transportation Engineering
+0229 Engineering and Related, Not Elsewhere Classified
+
+023 Extraction, Mining, Quarrying
+0231 Extraction, Mining, Quarrying
+
+024 Manufacturing and Processing
+0241 Food and Beverage Processing
+0242 Materials (Glass, Paper, Plastic, Wood, and Related)
+0243 Textiles (Clothes, Footwear, Leather, and Related)
+
+03 Business, Law, and Related
+030 Interdisciplinary Programs and Qualifications
+0300 Interdisciplinary Programs and Qualifications
+
+031 Accounting, Finance, and Related
+0311 Accounting, Audit, and Taxation
+0312 Banking, Finance, and Insurance
+
+032 Advertising, Marketing, Public Relations
+0321 Advertising, Marketing, Public Relations
+
+033 Law and Related
+0331 Law and Related
+
+034 Management, Administration, and Related
+0341 Management and Administration
+0342 Secretarial and Office Work
+0343 Workplace Skills
+
+035 Wholesale and Retail Trade
+0351 Wholesale and Retail Trade
+
+04 Education
+040 Interdisciplinary Programs and Qualifications
+0400 Interdisciplinary Programs and Qualifications
+
+041 Education
+0411 Education Science
+0412 Training for Pre-School Teachers
+0413 Training for Teachers without Subject Specialisation
+0414 Training for Teachers with Subject Specialisation
+
+05 Healthcare, Welfare, and Veterinary
+050 Interdisciplinary Programs and Qualifications
+0500 Interdisciplinary Programs and Qualifications
+
+051 Healthcare
+0511 Dental Studies
+0512 Medicine
+0513 Nursing and Midwifery
+0514 Medical Diagnostic and Treatment Technology
+0515 Pharmacy
+0516 Therapy and Rehabilitation
+0517 Traditional and Complementary Medicine
+
+052 Welfare
+0521 Care of the Elderly and Disabled
+0522 Child Care and Youth Services
+0523 Occupational Health and Safety
+0524 Social Work and Counselling
+
+053 Veterinary
+0531 Veterinary
+
+06 Information Technology (IT)
+060 Interdisciplinary Programs and Qualifications
+0600 Interdisciplinary Programs and Qualifications
+
+061 Information Technology (IT)
+0611 Computer and Software Use
+0612 Database and Network Design and Administration
+0613 Software and Game Design and Development
+0619 Information Technology (IT), Not Elsewhere Classified
+
+07 Mathematical and Natural Sciences
+070 Interdisciplinary Programs and Qualifications
+0700 Interdisciplinary Programs and Qualifications
+
+071 Mathematical Sciences and Related
+0711 Mathematical Sciences
+0712 Statistics and Related
+
+072 Biological Sciences and Related
+0721 Biological Sciences
+0722 Biochemistry and Related
+
+073 Environmental Sciences and Related
+0731 Environmental Sciences
+0732 Natural Environments and Wildlife
+
+074 Physical Sciences and Related
+0741 Chemistry
+0742 Earth Sciences
+0743 Physics and Space Sciences
+
+08 Social and Behavioral Sciences
+080 Interdisciplinary Programs and Qualifications
+0800 Interdisciplinary Programs and Qualifications
+
+081 Social and Behavioral Sciences
+0811 Economics and Related
+0812 Political Sciences and Related
+0813 Psychology and Related
+0814 Sociology and Cultural Studies
+
+09 Arts, Design, Humanities, Media, and Related
+090 Interdisciplinary Programs and Qualifications
+0900 Interdisciplinary Programs and Qualifications
+
+091 Arts, Design, and Related
+0912 Design
+0913 Fine Arts
+0914 Handicrafts
+0915 Music and Performing Arts
+
+092 Humanities (excl. Languages)
+0921 History and Archeology
+0922 Philosophy and Ethics
+0923 Religion and Theology
+
+093 Languages
+0931 Language Acquisition
+0932 Lliterature and Linguistics
+
+094 Media and Related
+0941 Audio-Video, Digital, and Print Production
+0942 Journalism and Reporting
+0943 Libraries, Museums, and Related
+
+10 Other Fields
+100 Interdisciplinary Programs and Qualifications
+1000 Interdisciplinary Programs and Qualifications
+
+101 Hospitality, Leisure, and Tourism
+1011 Hospitality, Leisure, and Tourism
+
+102 Personal, Domestic, and Community Services
+1021 Beauty Services
+1022 Domestic Services
+1023 Community Services
+
+103 Transportation and Delivery Services
+1031 Transportation and Delivery Services
+
+104 Security Services
+1041 Civil and Private Protection
+1042 Military and Defence
+
+105 Sports
+1051 Sports
 
