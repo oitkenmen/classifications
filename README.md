@@ -1,19 +1,25 @@
-## Open Classifications
+Open Classifications
 
-Open Classification of Educational Programs  
-  **A** - Sectors  
-  **B** - Groups  
-  **C** - Classes  
-  **D** - Detailed  
-  
-Open Classification of Industries  
-  **A** - Sectors  
-  **B** - Groups  
-  **C** - Classes  
-  **D** - Detailed  
-  
-Open Classification of Occupations  
-  **A** - Sectors  
-  **B** - Groups  
-  **C** - Classes  
-  **D** - Detailed  
+Open Classification of Educational Programs
+A - Sectors
+B - Groups
+C - Classes
+D - Detailed
+
+Open Classification of Industries
+A - Sectors
+B - Groups
+C - Classes
+D - Detailed
+
+Open Classification of Occupations
+A - Sectors
+B - Groups
+C - Classes
+D - Detailed
+
+Open Classification of Products
+A - Sectors
+B - Groups
+C - Classes
+D - Detailed
