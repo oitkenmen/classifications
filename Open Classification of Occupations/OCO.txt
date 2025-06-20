@@ -1,0 +1,994 @@
+﻿Open Classification of Occupations
+
+
+
+A SECTORS
+
+6 Top Managers
+60 Top Managers in Business and Public Administration
+
+5 Managers
+50 Managers in Business and Public Administration
+51 Managers in Architecture, Design, Engineering, and Sciences
+52 Managers in Arts, Culture, Entertainment, Media, Recreation, and Sports
+53 Managers in Education
+54 Managers in Healthcare and Welfare
+55 Managers in Hospitality (HoReCa) and Tourism
+56 Managers in Information and Communication Technologies (ICT)
+57 Managers in Production and Related Trades
+58 Managers in Sales and Services
+59 Managers in Other Fields
+
+4 Professionals
+40 Professionals in Business and Public Administration
+41 Professionals in Architecture, Design, Engineering, and Sciences
+42 Professionals in Arts, Culture, Entertainment, Media, Recreation, and Sports
+43 Professionals in Education
+44 Professionals in Healthcare and Welfare
+45 Professionals in Hospitality (HoReCa) and Tourism
+46 Professionals in Information and Communication Technologies (ICT)
+47 Professionals in Production and Related Trades
+48 Professionals in Sales and Services
+49 Professionals in Other Fields
+
+3 Associate Professionals
+30 Associate Professionals in Business and Public Administration
+31 Associate Professionals in Architecture, Design, Engineering, and Sciences
+32 Associate Professionals in Arts, Culture, Entertainment, Media, Recreation, and Sports
+33 Associate Professionals in Education
+34 Associate Professionals in Healthcare and Welfare
+35 Associate Professionals in Hospitality (HoReCa) and Tourism
+36 Associate Professionals in Information and Communication Technologies (ICT)
+37 Associate Professionals in Production and Related Trades
+38 Associate Professionals in Sales and Services
+39 Associate Professionals in Other Fields
+
+2 Skilled Workers
+20 Skilled Workers in Business and Public Administration
+21 Skilled Workers in Architecture, Design, Engineering, and Sciences
+22 Skilled Workers in Arts, Culture, Entertainment, Media, Recreation, and Sports
+23 Skilled Workers in Education
+24 Skilled Workers in Healthcare and Welfare
+25 Skilled Workers in Hospitality (HoReCa) and Tourism
+26 Skilled Workers in Information and Communication Technologies (ICT)
+27 Skilled Workers in Production and Related Trades
+28 Skilled Workers in Sales and Services
+29 Skilled Workers in Other Fields
+
+1 Unskilled Workers
+10 Unskilled Workers in Business and Public Administration
+11 Unskilled Workers in Architecture, Design, Engineering, and Sciences
+12 Unskilled Workers in Arts, Culture, Entertainment, Media, Recreation, and Sports
+13 Unskilled Workers in Education
+14 Unskilled Workers in Healthcare and Welfare
+15 Unskilled Workers in Hospitality (HoReCa) and Tourism
+16 Unskilled Workers in Information and Communication Technologies (ICT)
+17 Unskilled Workers in Production and Related Trades
+18 Unskilled Workers in Sales and Services
+19 Unskilled Workers in Other Fields
+
+
+
+B GROUPS
+
+60 Top Managers in Business and Public Administration
+601 Top Managers in Business Administration
+602 Top Managers in Public Administration
+
+50 Managers in Business and Public Administration
+501 Managers in Accounting, Finance, and Related
+502 Managers in Advertising, Marketing, Public Relations (PR), and Sales
+503 Managers in Law and Related
+504 Managers in Other Business Services
+
+51 Managers in Architecture, Design, Engineering, and Sciences
+511 Managers in Architecture, Design, Engineering, and Sciences
+
+52 Managers in Arts, Culture, Entertainment, Media, Recreation, and Sports
+521 Managers in Arts, Culture, Entertainment, Media, Recreation, and Sports
+
+53 Managers in Education
+531 Managers in Education
+
+54 Managers in Healthcare and Welfare
+541 Managers in Healthcare and Welfare
+
+55 Managers in Hospitality (HoReCa) and Tourism
+551 Managers in Hospitality (HoReCa) and Tourism
+
+56 Managers in Information and Communication Technologies (ICT)
+561 Managers in Information and Communication Technologies (ICT)
+
+57 Managers in Production and Related Trades
+571 Managers in Agriculture, Aquaculture, Forestry, and Related
+572 Managers in Construction and Related
+573 Managers in Extraction, Mining, Quarrying, and Related
+574 Managers in Manufacturing and Related
+575 Managers in Transportation, Warehousing, Delivery, and Related
+
+58 Managers in Sales and Services
+581 Managers in Sales and Services
+
+59 Managers in Other Fields
+599 Managers in Other Fields - Other
+
+40 Professionals in Business and Public Administration
+401 Professionals in Accounting, Finance, and Related
+402 Professionals in Advertising, Marketing, Public Relations (PR), and Sales
+403 Professionals in Law and Related
+404 Professionals in Other Business Services
+
+41 Professionals in Architecture, Design, Engineering, and Sciences
+411 Professionals in Architecture and Related
+412 Professionals in Design and Related
+413 Professionals in Engineering and Related
+414 Professionals in Life Sciences
+415 Professionals in Math Sciences
+416 Professionals in Physical Sciences
+417 Professionals in Social Sciences
+
+42 Professionals in Arts, Culture, Entertainment, Media, Recreation, and Sports
+421 Professionals in Arts and Entertainment
+422 Professionals in Culture and Related
+423 Professionals in Media and Related
+424 Professionals in Recreation and Sports
+
+43 Professionals in Education
+431 Professionals in Pre-Primary Education
+432 Professionals in Primary Education
+433 Professionals in Secondary Education
+434 Professionals in Tertiary Education
+435 Professionals in Vocational Education
+439 Professionals in Education – Other
+
+44 Professionals in Healthcare and Welfare
+441 Professionals in Medicine
+442 Professionals in Nursing and Midwifery
+443 Professionals in Traditional and Complementary Medicine
+444 Professionals in Veterinary Medicine
+449 Professionals in Healthcare and Welfare – Other
+
+45 Professionals in Hospitality (HoReCa) and Tourism
+451 Professionals in Hospitality (HoReCa) and Tourism
+
+46 Professionals in Information and Communication Technologies (ICT)
+462 Professionals in ICT - Databases and Networks
+461 Professionals in ICT – Software
+
+47 Professionals in Production and Related Services
+471 Professionals in Agriculture, Aquaculture, Forestry, and Related
+472 Professionals in Construction and Related
+473 Professionals in Extraction, Mining, Quarrying, and Related
+474 Professionals in Manufacturing and Related
+475 Professionals in Transportation, Warehousing, Delivery, and Related
+
+48 Professionals in Sales and Services
+
+49 Professionals in Other Fields
+491 Professionals in Religion
+492 Professionals in Social Work
+
+30 Associate Professionals in Business and Public Administration
+301 Associate Professionals in Accounting, Finance, and Related
+302 Associate Professionals in Advertising, Marketing, Public Relations (PR), and Sales
+303 Associate Professionals in Law and Related
+304 Associate Professionals in Other Business Services
+305 Associate Professionals in Public Administration
+
+31 Associate Professionals in Architecture, Design, Engineering, and Sciences
+311 Associate Professionals in Architecture and Design
+312 Associate Professionals in Engineering
+313 Associate Professionals in Sciences
+319 Associate Professionals in Architecture, Design, Engineering, and Sciences – Other
+
+32 Associate Professionals in Arts, Culture, Entertainment, Media, Recreation, and Sports
+321 Associate Professionals in Arts, Entertainment, and Media
+322 Associate Professionals in Culture and Related
+323 Associate Professionals in Recreation and Sports
+329 Associate Professionals in Arts, Culture, Entertainment, Media, Recreation, and Sports – Other
+
+33 Associate Professionals in Education
+331 Associate Professionals in Education
+
+34 Associate Professionals in Healthcare and Welfare
+341 Associate Professionals in Medicine
+342 Associate Professionals in Nursing and Midwifery
+343 Associate Professionals in Traditional and Complementary Medicine
+344 Associate Professionals in Veterinary Medicine
+349 Associate Professionals in Healthcare and Welfare – Other
+
+35 Associate Professionals in Hospitality (HoReCa) and Tourism
+351 Associate Professionals in Hospitality (HoReCa) and Tourism
+
+36 Associate Professionals in Information and Communication Technologies (ICT)
+361 Associate Professionals in Operations, User Support, and Related
+362 Associate Professionals in Programming and Broadcasting
+363 Associate Professionals in Telecommunications
+
+37 Associate Professionals in Production and Related Services
+371 Associate Professionals in Agriculture, Aquaculture, Forestry, and Related
+372 Associate Professionals in Construction and Related
+373 Associate Professionals in Extraction, Mining, Quarrying, and Related
+374 Associate Professionals in Manufacturing and Related
+375 Associate Professionals in Transportation, Warehousing, Delivery, and Related
+
+38 Associate Professionals in Sales and Services
+
+39 Associate Professionals in Other Fields
+391 Associate Professionals in Religion
+392 Associate Professionals in Social Work
+
+20 Skilled Workers in Business and Public Administration
+201 Skilled Workers in Accounting, Finance, and Related
+202 Skilled Workers in Advertising, Marketing, Public Relations (PR), and Sales
+203 Skilled Workers in Law and Related
+204 Skilled Workers in Other Business Services
+
+21 Skilled Workers in Architecture, Design, Engineering, and Sciences
+
+22 Skilled Workers in Arts, Culture, Entertainment, Media, Recreation, Sports
+221 Skilled Workers in Arts and Related
+222 Skilled Workers in Culture and Related
+223 Skilled Workers in Entertainment and Related
+224 Skilled Workers in Media, Recreation and Sports
+
+23 Skilled Workers in Education
+231 Skilled Workers in Education
+
+24 Skilled Workers in Healthcare and Welfare
+241 Skilled Workers in Healthcare and Welfare
+
+25 Skilled Workers in Hospitality (HoReCa) and Tourism
+251 Skilled Workers in Hospitality (HoReCa) and Tourism
+
+26 Skilled Workers in Information and Communication Technologies (ICT)
+261 Skilled Workers in Information and Communication Technologies (ICT)
+
+27 Skilled Workers in Production and Related Trades
+271 Skilled Workers in Agriculture, Aquaculture, Forestry, and Related (Market-Oriented)
+272 Skilled Workers in Agriculture, Aquaculture, Forestry, and Related (Subsistence)
+273 Skilled Workers in Construction and Related
+274 Skilled Workers in Extraction, Mining, Quarrying, and Related
+275 Skilled Workers in Manufacturing
+276 Skilled Workers in Manufacturing - Assemblers
+277 Skilled Workers in Manufacturing - Mobile Plant and Machinery
+278 Skilled Workers in Manufacturing - Stationary Plant and Machinery
+279 Skilled Workers in Transportation, Warehousing, Delivery, and Related
+
+28 Skilled Workers in Sales and Services
+281 Skilled Workers in Beauty Services
+282 Skilled Workers in Cleaning Services
+283 Skilled Workers in Customer Services
+284 Skilled Workers in Maintenance and Repair Services
+285 Skilled Workers in Protective Services
+286 Skilled Workers in Sales
+
+29 Skilled Workers in Other Fields
+299 Skilled Workers in Other Fields - Other
+
+10 Unskilled Workers in Business and Public Administration
+
+11 Unskilled Workers in Architecture, Design, Engineering, and Sciences
+
+12 Unskilled Workers in Arts, Culture, Entertainment, Media, Recreation, and Sports
+
+13 Unskilled Workers in Education
+
+14 Unskilled Workers in Healthcare and Welfare
+
+15 Unskilled Workers in Hospitality (HoReCa) and Tourism
+151 Unskilled Workers in Hospitality (HoReCa) and Tourism
+
+16 Unskilled Workers in Information and Communication Technologies (ICT)
+
+17 Unskilled Workers in Production and Related Trades
+171 Unskilled Workers in Agriculture, Aquaculture, Forestry, and Related
+172 Unskilled Workers in Construction and Related
+173 Unskilled Workers in Extraction, Mining, Quarrying, and Related
+174 Unskilled Workers in Manufacturing and Related
+175 Unskilled Workers in Transportation, Warehousing, Delivery, and Related
+
+18 Unskilled Workers in Sales and Services
+181 Unskilled Workers in Commercial and Domestic Cleaning Services
+182 Unskilled Workers in Laundries and Other Cleaning Services
+183 Unskilled Workers in Street and Related Sales and Services
+
+19 Unskilled Workers in Other Fields
+191 Unskilled Workers in Waste Management and Related
+199 Unskilled Workers in Other Fields - Other
+
+
+
+C CLASSES
+
+60 Top Managers in Business and Public Administration
+601 Top Managers in Business Administration
+6011 Chief Executives, Managing Directors, Managing Partners, and Related
+
+602 Top Managers in Public Administration
+6021 Legislators and Related
+6022 Senior Officials in Government Organizations
+6023 Senior Officials in Non-Government Organizations
+
+50 Managers in Business and Public Administration
+501 Managers in Accounting, Finance, and Related
+5011 Finance Managers
+5012 Financial and Insurance Services Branch Managers
+
+502 Managers in Advertising, Marketing, Public Relations (PR), and Sales
+5021 Advertising and Public Relations (PR) Managers
+5022 Marketing and Sales Managers
+
+503 Managers in Law and Related
+
+504 Managers in Other Business Services
+5041 Human Resource (HR) Managers
+5042 Policy and Planning Managers
+504N Managers in Other Business Services, Not Elsewhere Classified
+
+51 Managers in Architecture, Design, Engineering, and Sciences
+511 Managers in Architecture, Design, Engineering, and Sciences
+5111 Research and Development (R&D) Managers
+
+52 Managers in Arts, Culture, Entertainment, Media, Recreation, and Sports
+521 Managers in Arts, Culture, Entertainment, Media, Recreation, and Sports
+5211 Cultural, Recreation, and Sports Center Managers
+
+53 Managers in Education
+531 Managers in Education
+5311 Education Managers
+
+54 Managers in Healthcare and Welfare
+541 Managers in Healthcare and Welfare
+5411 Aged Care Services Managers
+5412 Child Care Services Managers
+5413 Healthcare Services Managers
+5414 Social Welfare Services Managers
+
+55 Managers in Hospitality (HoReCa) and Tourism
+551 Managers in Hospitality (HoReCa) and Tourism
+5511 Hotel Managers
+5512 Restaurant Managers
+5513 Catering Managers
+
+56 Managers in Information and Communication Technologies (ICT)
+561 Managers in Information and Communication Technologies (ICT)
+5611 ICT Services Managers
+
+57 Managers in Production and Related Trades
+571 Managers in Agriculture, Aquaculture, Forestry, and Related
+5711 Agricultural and Forestry Production Managers
+5712 Aquacultural and Fishery Production Managers
+
+572 Managers in Construction and Related
+5721 Construction Managers
+
+573 Managers in Extraction, Mining, Quarrying, and Related
+5731 Mining Managers
+
+574 Managers in Manufacturing and Related
+5741 Manufacturing Managers
+
+575 Managers in Transportation, Warehousing, Delivery, and Related
+5751 Distribution, Supply, and Related Managers
+
+58 Managers in Sales and Services
+581 Managers in Sales and Services
+5811 Wholesale and Retail Trade Managers
+
+59 Managers in Other Fields
+599 Managers in Other Fields - Other
+599N Managers in Other Fields, Not Elsewhere Classified
+
+40 Professionals in Business and Public Administration
+401 Professionals in Accounting, Finance, and Related
+4011 Accountants and Auditors
+4012 Financial and Investment Advisers
+4013 Financial and Investment Analysts
+
+402 Professionals in Advertising, Marketing, Public Relations (PR), and Sales
+4021 Advertising and Marketing Professionals
+4022 Public Relations (PR) Professionals
+4023 Sales Professionals, ICT
+4024 Sales Professionals, Non-ICT
+
+403 Professionals in Law and Related
+4031 Judges and Related
+4032 Lawyers and Related
+403N Professionals in Law and Related, Not Elsewhere Classified
+
+404 Professionals in Other Business Services
+4041 Management and Organization Analysts
+4042 Personnel and Careers Professionals
+4043 Policy Administration Professionals
+4044 Training and Development Professionals
+
+41 Professionals in Architecture, Design, Engineering, and Sciences
+411 Professionals in Architecture and Related
+4111 Architects, Building Architecture
+4112 Architects, Landscape Architecture
+4113 Cartographers, Surveyors, and Related
+4114 Planners, Traffic and Urban Planning
+
+412 Professionals in Design and Related
+4121 Designers, Fashion and Industrial Design
+4122 Designers, Graphic and Multimedia Design
+
+413 Professionals in Engineering and Related
+4131 Engineers, Chemical Engineering
+4132 Engineers, Civil Engineering
+4133 Engineers, Electrical Engineering
+4134 Engineers, Electronics Engineering
+4135 Engineers, Environmental Engineering
+4136 Engineers, Industrial and Production Engineering
+4137 Engineers, Mechanical Engineering
+4138 Engineers, Metallurgy, Mining, and Related
+4139 Engineers, Telecommunications
+413N Engineers, Not Elsewhere Classified
+
+414 Professionals in Life Sciences
+4141 Advisers in Agriculture, Aquaculture, Forestry, and Related
+4142 Biologists, Botanists, Zoologists, and Related
+4143 Environmental Protection Professionals
+
+415 Professionals in Math Sciences
+4151 Actuaries, Mathematicians, Statisticians, and Related
+
+416 Professionals in Physical Sciences
+4161 Chemists and Related
+4162 Geologists, Geophysicists, and Related
+4163 Meteorologists and Related
+4164 Physicists, Space Scientists, and Related
+
+417 Professionals in Social Sciences
+4171 Anthropologists, Sociologists, and Related
+4172 Economists and Related
+4173 Historians, Philosophers, Political Scientists, and Related
+4174 Psychologists and Related
+
+42 Professionals in Arts, Culture, Entertainment, Media, Recreation, and Sports
+421 Professionals in Arts and Entertainment
+4211 Actors and Related
+4212 Composers, Musicians, Singers, and Related
+4213 Choreographers, Dancers, and Related
+4214 Directors, Producers, and Related
+4215 Photographers and Related
+4216 Visual Artists and Related
+421N Professionals in Arts and Entertainment, Not Elsewhere Classified
+
+422 Professionals in Culture and Related
+4221 Archivists, Curators, and Related
+4222 Librarians and Related
+
+423 Professionals in Media and Related
+4231 Announcers and Hosts on Radio, Television, and Other Media
+4232 Authors and Related Writers
+4233 Journalists and Related Writers
+4234 Interpreters, Translators, and Other Linguists
+
+424 Professionals in Recreation and Sports
+4241 Sports Athletes and Players
+4242 Sports Coaches, Instructors, and Officials
+
+43 Professionals in Education
+431 Professionals in Pre-Primary Education
+4311 Teachers, Pre-Primary Education
+
+432 Professionals in Primary Education
+4321 Teachers, Primary Education
+
+433 Professionals in Secondary Education
+4331 Teachers, Secondary Education
+
+434 Professionals in Tertiary Education
+4341 Teachers, Tertiary Education
+
+435 Professionals in Vocational Education
+4351 Teachers, Vocational Education
+
+439 Professionals in Education - Other
+4391 Teachers, Arts, Not Elsewhere Classified
+4392 Teachers, Languages, Not Elsewhere Classified
+4393 Teachers, Music, Not Elsewhere Classified
+4394 Teachers, Special Needs
+
+44 Professionals in Healthcare and Welfare
+441 Professionals in Medicine
+4411 Medical Doctors and Practitioners, General
+4412 Medical Doctors and Practitioners, Specialized
+
+442 Professionals in Nursing and Midwifery
+4421 Nursing Professionals
+4422 Midwifery Professionals
+
+443 Professionals in Traditional and Complementary Medicine
+4431 Traditional and Complementary Medicine Professionals
+
+444 Professionals in Veterinary Medicine
+4441 Veterinarians and Related
+
+449 Professionals in Healthcare and Welfare - Other
+4491 Audiologists and Speech Therapists
+4492 Dentists and Related
+4493 Dieticians and Nutritionists
+4494 Environmental and Occupational Health and Hygiene Professionals
+4495 Optometrists and Ophthalmic Opticians
+4496 Paramedical Practitioners
+4497 Pharmacists and Related
+4498 Physiotherapists and Related
+449N Professionals in Healthcare and Welfare, Not Elsewhere Classified
+
+45 Professionals in Hospitality (HoReCa) and Tourism
+451 Professionals in Hospitality (HoReCa) and Tourism
+4511 Chefs and Related
+
+46 Professionals in Information and Communication Technologies (ICT)
+461 Professionals in ICT - Databases and Networks
+4611 Database Professionals
+4612 Network Professionals
+4613 Systems Administrators
+461N Professionals in ICT - Databases and Networks, Not Elsewhere Classified
+
+462 Professionals in ICT - Software
+4621 Developers, Software
+4622 Developers, Web and Multimedia
+4623 Systems Analysts
+462N Professionals in ICT - Software, Not Elsewhere Classified
+
+47 Professionals in Production and Related Services
+471 Professionals in Agriculture, Aquaculture, Forestry, and Related
+
+472 Professionals in Construction and Related
+
+473 Professionals in Extraction, Mining, Quarrying, and Related
+
+474 Professionals in Manufacturing and Related
+
+475 Professionals in Transportation, Warehousing, Delivery, and Related
+4751 Air Transportation - Pilots and Related
+4752 Water Transportation - Captains, Skippers, and Related
+
+48 Professionals in Sales and Services
+
+49 Professionals in Other Fields
+491 Professionals in Religion
+4911 Religion Professionals
+
+492 Professionals in Social Work
+4921 Social Work and Counselling Professionals
+
+30 Associate Professionals in Business and Public Administration
+301 Associate Professionals in Accounting, Finance, and Related
+3011 Accounting Associate Professionals
+3012 Actuary, Math, Statistics, and Related Associate Professionals
+3013 Credit and Loans Officers
+3014 Finance and Securities Brokers and Dealers
+3015 Valuers and Loss Assessors
+
+302 Associate Professionals in Advertising, Marketing, Public Relations (PR), and Sales
+3021 Buyers
+3022 Sales Representatives, Commercial
+3023 Sales Representatives, Insurance
+3024 Trade Brokers
+
+303 Associate Professionals in Law and Related
+3031 Legal and Related Associate Professionals
+3032 Legal Secretaries
+
+304 Associate Professionals in Other Business Services
+3041 Administrative and Executive Secretaries
+3042 Clearing and Forwarding Agents
+3043 Conference and Event Planners
+3044 Employment Agents and Contractors
+3045 General Secretaries
+3046 Office Supervisors
+3047 Real Estate Agents and Property Managers
+304N Associate Professionals in Other Business Services, Not Elsewhere Classified
+
+305 Associate Professionals in Public Administration
+3051 Government Officials, Licensing
+3052 Government Officials, Social Benefits
+3053 Government Officials, Tax and Excise
+3054 Inspectors, Borders and Customs
+3055 Inspectors, Police
+305N Associate Professionals in Public Administration, Not Elsewhere Classified
+
+31 Associate Professionals in Architecture, Design, Engineering, and Sciences
+311 Associate Professionals in Architecture and Design
+3111 Draftspersons
+3112 Interior Decorators and Designers
+
+312 Associate Professionals in Engineering
+3121 Technicians, Chemical Engineering
+3122 Technicians, Civil Engineering
+3123 Technicians, Electrical Engineering
+3124 Technicians, Electronics Engineering
+3125 Technicians, Mechanical Engineering
+3126 Technicians, Metallurgy, Mining, and Related
+
+313 Associate Professionals in Sciences
+3131 Technicians, Life Sciences (excl. Medical)
+3132 Technicians, Physical Sciences
+
+319 Associate Professionals in Architecture, Design, Engineering, and Sciences - Other
+319N Associate Professionals in Architecture, Design, Engineering, and Sciences, Not Elsewhere Classified
+
+32 Associate Professionals in Arts, Culture, Entertainment, Media, Recreation, and Sports
+321 Associate Professionals in Arts, Entertainment, and Media
+3211 Fashion and Other Models
+
+322 Associate Professionals in Culture and Related
+3221 Technicians, Galleries, Libraries, and Museums
+
+323 Associate Professionals in Recreation and Sports
+3231 Fitness Instructors, Program Leaders, and Related
+
+329 Associate Professionals in Arts, Culture, Entertainment, Media, Recreation, and Sports - Other
+329N Associate Professionals in Arts, Culture, Entertainment, Media, Recreation, and Sports, Not Elsewhere Classified
+
+33 Associate Professionals in Education
+331 Associate Professionals in Education
+3311 Education Methods Specialists
+3312 Information Technology (IT) Trainers
+331N Associate Professionals in Education, Not Elsewhere Classified
+
+34 Associate Professionals in Healthcare and Welfare
+341 Associate Professionals in Medicine
+3411 Medical and Dental Prosthetic Technicians
+3412 Medical and Pathology Laboratory Technicians 
+3413 Medical Imaging and Therapeutic Equipment Technicians
+3494 Medical Records and Health Information Technicians
+
+342 Associate Professionals in Nursing and Midwifery
+3421 Nursing Associate Professionals
+3422 Midwifery Associate Professionals
+
+343 Associate Professionals in Traditional and Complementary Medicine
+3431 Traditional and Complementary Medicine Associate Professionals
+
+344 Associate Professionals in Veterinary Medicine
+3441 Veterinary Assistants and Technicians
+
+349 Associate Professionals in Healthcare and Welfare - Other
+3491 Ambulance Workers
+3492 Community Health Workers
+3493 Dental Assistants and Therapists
+3494 Dispensing Opticians
+3495 Environmental and Occupational Health Inspectors and Associates
+3496 Medical and Dental Secretaries
+3497 Medical Assistants
+3498 Pharmaceutical Assistants and Technicians
+3499 Physiotherapy Assistants and Technicians
+349N Associate Professionals in Healthcare and Welfare, Not Elsewhere Classified
+
+35 Associate Professionals in Hospitality (HoReCa) and Tourism
+351 Associate Professionals in Hospitality (HoReCa) and Tourism
+3511 Bartenders and Related
+3512 Cooks and Related
+
+36 Associate Professionals in Information and Communication Technologies (ICT)
+361 Associate Professionals in Operations, User Support, and Related
+3611 Technicians, ICT Operations
+3612 Technicians, ICT User Support
+3613 Technicians, Networks and Systems
+3614 Technicians, Web
+
+362 Associate Professionals in Programming and Broadcasting
+3621 Technicians, Programming and Broadcasting
+
+363 Associate Professionals in Telecommunications
+3631 Technicians, Telecommunications
+
+37 Associate Professionals in Production and Related Services
+371 Associate Professionals in Agriculture, Aquaculture, Forestry, and Related
+3711 Technicians, Agriculture and Related
+3712 Technicians, Forestry and Related
+
+372 Associate Professionals in Construction and Related
+3721 Construction Supervisors
+
+373 Associate Professionals in Extraction, Mining, Quarrying, and Related
+3731 Mining Supervisors
+
+374 Associate Professionals in Manufacturing and Related
+3741 Supervisors, Manufacturing and Related
+
+375 Associate Professionals in Process Control
+3751 Chemical Processing Plant Controllers
+3752 Incinerator and Water Treatment Plant Operators
+3753 Metal Production Process Controllers
+3754 Oil and Gas Refining Plant Operators
+3755 Power Production Plant Operators
+375N Associate Professionals in Process Control, Not Elsewhere Classified
+
+376 Associate Professionals in Transportation, Warehousing, Delivery, and Related
+3761 Air Transportation - Traffic Controllers
+3762 Air Transportation - Traffic Safety Technicians
+3763 Water Transportation - Crew Members
+3764 Water Transportation - Engineers
+
+38 Associate Professionals in Sales and Services
+
+39 Associate Professionals in Other Fields
+391 Associate Professionals in Religion
+3911 Religion Associate Professionals
+
+392 Associate Professionals in Social Work
+3921 Social Work Associate Professionals
+
+20 Skilled Workers in Business and Public Administration
+201 Skilled Workers in Accounting, Finance, and Related
+2011 Clerks, Accounting and Bookkeeping
+2012 Clerks, Finance, Insurance, and Statistics
+2013 Clerks, Payroll
+2014 Debt Collectors and Related
+2015 Money-Lenders and Pawnbrokers
+
+202 Skilled Workers in Advertising, Marketing, Public Relations (PR), and Sales
+2021 Survey and Market Research Interviewers
+
+203 Skilled Workers in Law and Related
+
+204 Skilled Workers in Other Business Services
+2041 Clerks, Coding, Proofreading, and Related
+2042 Clerks, Copying and Filing
+2043 Clerks, Data Entry
+2044 Clerks, General Office
+2045 Clerks, Personnel
+204N Skilled Workers in Other Business Services, Not Elsewhere Classified
+
+21 Skilled Workers in Architecture, Design, Engineering, and Sciences
+
+22 Skilled Workers in Arts, Culture, Entertainment, Media, Recreation, Sports
+221 Skilled Workers in Arts and Related
+2211 Handicraft Workers, Glass Makers, Cutters, Grinders, and Finishers
+2212 Handicraft Workers, Jewelry and Precious Metal Workers
+2213 Handicraft Workers, Musical Instrument Makers and Tuners
+2214 Handicraft Workers, Potters and Related Workers
+2215 Handicraft Workers, Precision Instrument Makers and Repairers
+2216 Handicraft Workers, Signwriters, Decorative Painters, Engravers, and Etchers
+2217 Handicraft Workers, Textile, Leather, and Related Materials
+2218 Handicraft Workers, Wood, Basketry, and Related Materials
+221N Handicraft Workers, Not Elsewhere Classified
+
+222 Skilled Workers in Culture and Related
+2221 Clerks, Libraries
+
+223 Skilled Workers in Entertainment and Related
+2231 Bookmakers, Croupiers, and Related
+
+224 Skilled Workers in Media, Recreation and Sports
+
+23 Skilled Workers in Education
+231 Skilled Workers in Education
+2311 Child Care Workers
+2312 Driving Instructors
+2313 Teaching Assistants
+
+24 Skilled Workers in Healthcare and Welfare
+241 Skilled Workers in Healthcare and Welfare
+2411 Healthcare Assistants
+2412 Home-Based Personal Care Workers
+241N Skilled Workers in Healthcare and Welfare, Not Elsewhere Classified
+
+25 Skilled Workers in Hospitality (HoReCa) and Tourism
+251 Skilled Workers in Hospitality (HoReCa) and Tourism
+2511 Fast Food Preparers
+2512 Food Service Counter Attendants
+2513 Hotel Receptionists
+2514 Travel Attendants and Stewards
+2515 Travel Consultants
+2516 Travel Guides
+
+26 Skilled Workers in Information and Communication Technologies (ICT)
+261 Skilled Workers in Information and Communication Technologies (ICT)
+2611 Printing Trades Workers, Pre-Press Technicians
+2612 Printing Trades Workers, Printers 
+2613 Printing Trades Workers, Print Finishing and Binding
+2614 Telephone Switchboard Operators
+2615 Typists and Word Processing Operators
+
+27 Skilled Workers in Production and Related Trades
+271 Skilled Workers in Agriculture, Aquaculture, Forestry, and Related (Market-Oriented)
+2711 Mixed Farming Producers
+2712 Animal Farming Producers
+2713 Crop Farming Producers
+2714 Aquaculture and Related Workers
+2715 Fishers, Deep Sea
+2716 Fishers, Inland and Coastal Waters
+2717 Forestry and Related Workers
+2718 Hunters and Trappers
+
+272 Skilled Workers in Agriculture, Aquaculture, Forestry, and Related (Subsistence)
+2721 Subsistence Mixed Farmers
+2722 Subsistence Animal Farmer
+2723 Subsistence Crop Farmers
+2724 Subsistence Aquaculture, Forestry, and Related Workers
+
+273 Skilled Workers in Construction and Related
+2731 Building and Related Electricians
+2732 Building Finishers and Related Trades Workers
+2733 Building Frame and Related Trades Workers
+2734 Building Structure Cleaners
+2735 Painters and Related Workers
+2736 Spray Painters and Varnishers
+
+274 Skilled Workers in Extraction, Mining, Quarrying, and Related
+2741 Blasters and Shotfirers
+2742 Borers, Well Drillers, and Related
+2743 Cement, Stone, and Other Mineral Products Machine Operators
+2744 Mineral and Stone Processing Plant Operators
+2745 Miners and Quarriers
+
+275 Skilled Workers in Manufacturing
+2751 Clerks, Production
+2752 Food Processing and Related Trades Workers
+2753 Garment and Related Trades Workers
+2754 Machinery, Metallurgy, and Related Trades Workers
+2755 Wood and Related Trades Workers
+
+276 Skilled Workers in Manufactring - Assemblers
+2761 Assemblers, Electrical and Electronic Equipment
+2762 Assemblers, Mechanical Machinery
+276N Assemblers, Not Elsewhere Classified
+
+277 Skilled Workers in Manufactring - Mobile Plant and Machinery
+2771 Mobile Plant and Machine Operators - Crane, Hoist, and Related
+2772 Mobile Plant and Machine Operators - Earthmoving and Related
+2773 Mobile Plant and Machine Operators - Lifting Trucks
+2774 Mobile Plant and Machine Operators - Mobile Farms and Forestry Plants
+
+278 Skilled Workers in Manufactring - Stationary Plant and Machinery
+2781 Stationary Plant and Machine Operators - Boilers and Steam Engines
+2782 Stationary Plant and Machine Operators - Bottling, Labelling, Packing
+2783 Stationary Plant and Machine Operators - Ceramics, Glass, and Related
+2784 Stationary Plant and Machine Operators - Chemical and Photographic Products
+2785 Stationary Plant and Machine Operators - Food and Related Products
+2786 Stationary Plant and Machine Operators - Fur, Leather, and Textile Products
+2787 Stationary Plant and Machine Operators - Metal and Related Products
+2788 Stationary Plant and Machine Operators - Paper, Wood, and Related Products
+2789 Stationary Plant and Machine Operators - Plastic, Rubber, and Related Products
+278N Stationary Plant and Machine Operators - Not Elsewhere Classified
+
+279 Skilled Workers in Transportation, Warehousing, Delivery, and Related
+2791 Clerks, Stock
+2792 Clerks, Transport
+2793 Delivery - Mail Carriers and Sorting Clerks
+2794 Raiload Transportation - Locomotive Engine Drivers
+2795 Raiload Transportation - Railway Brake, Signal, and Switch Operators
+2796 Road Transportation - Bus and Tram Drivers
+2797 Road Transportation - Car and Van Drivers
+2798 Road Transportation - Heavy Truck Drivers
+2799 Road Transportation - Motorcycle Drivers
+
+28 Skilled Workers in Sales and Services
+281 Skilled Workers in Beauty Services
+2811 Barbers, Hairstylists, and Related
+2812 Beauticians and Related
+
+282 Skilled Workers in Cleaning Services
+2821 Building Caretakers
+2822 Cleaning and Housekeeping Supervisors, Commercial
+2823 Cleaning and Housekeeping Supervisors, Domestic
+
+283 Skilled Workers in Customer Services
+2831 Bank Tellers and Related
+2832 Cashiers and Tickets Clerks
+2833 Contact Center Clerks
+2834 General Receptionists
+2835 Inquiry Clerks
+2836 Scribes and Related
+2837 Service Station Attendants
+283N Skilled Workers in Customer Services, Not Elsewhere Classified
+
+284 Skilled Workers in Maintenance and Repair Services
+2841 Agricultural and Industrial Machinery Mechanics and Repairers
+2842 Air Conditioning and Refrigeration Mechanics
+2843 Aircraft Engine Mechanics and Repairers
+2844 Bicycle and Related Repairers
+2845 Electrical Line Installers and Repairers 
+2846 Electrical Mechanics and Fitters
+2847 Electronics Mechanics and Servicers
+2848 ICT Installers and Servicers
+2849 Motor Vehicle Mechanics and Repairers
+
+285 Skilled Workers in Protective Services
+2851 Firefighters
+2852 Police Officers
+2853 Prison Guards
+2854 Security Guards
+285N Skilled Workers in Protective Services, Not Elsewhere Classified
+
+286 Skilled Workers in Sales
+2861 Sales Demonstrators
+2862 Salespersons, Contact Center
+2863 Salespersons, Door-to-Door
+2864 Salespersons, Stall and Market
+2865 Salespersons, Street Food
+2866 Shopkeepers
+2867 Shop Supervisors
+2868 Shop Sales Assistants
+286N Skilled Workers in Sales, Not Elsewhere Classified
+
+29 Skilled Workers in Other Fields
+299 Skilled Workers in Other Fields - Other
+2991 Astrologers, Fortune-Tellers, and Related
+2992 Companions and Valets
+2993 Embalmers and Undertakers
+2994 Fumigators and Other Pest and Weed Controllers
+2995 Pet Groomers and Other Animal Care Workers
+2996 Product Graders and Testers (excl. Foods and Beverages)
+2997 Transport Conductors
+2998 Underwater Divers
+299N Skilled Workers in Other Fields, Not Elsewhere Classified
+
+10 Unskilled Workers in Business and Public Administration
+
+11 Unskilled Workers in Architecture, Design, Engineering, and Sciences
+
+12 Unskilled Workers in Arts, Culture, Entertainment, Media, Recreation, and Sports
+
+13 Unskilled Workers in Education
+
+14 Unskilled Workers in Healthcare and Welfare
+
+15 Unskilled Workers in Hospitality (HoReCa) and Tourism
+151 Unskilled Workers in Hospitality (HoReCa) and Tourism
+1511 Kitchen Helpers
+1512 Waiters and Related
+
+16 Unskilled Workers in Information and Communication Technologies (ICT)
+
+17 Unskilled Workers in Production and Related Trades
+171 Unskilled Workers in Agriculture, Aquaculture, Forestry, and Related
+1711 Laborers in Mixed Farming
+1712 Laborers in Animal Farming
+1713 Laborers in Crop Farming
+1714 Laborers in Gardening, Horticulture, and Related
+1715 Laborers in Aquaculture and Related
+1716 Laborers in Forestry and Related
+
+172 Unskilled Workers in Construction and Related
+1721 Laborers in Building Construction
+1722 Laborers in Civil Engineering Construction
+
+173 Unskilled Workers in Extraction, Mining, Quarrying, and Related
+1731 Laborers in Extraction, Mining, Quarrying, and Related
+
+174 Unskilled Workers in Manufacturing and Related
+1741 Hand Packers and Related
+174N Unskilled Workers in Manufacturing and Related, Not Elsewhere Classified
+
+175 Unskilled Workers in Transportation, Warehousing, Delivery, and Related
+1751 Deliverers, Messengers, Porters, and Related
+1752 Drivers, Animal-Drawn Vehicles and Machinery
+1753 Drivers, Hand and Pedal Vehicles
+1754 Freight Handlers
+1755 Shelf Fillers
+
+18 Unskilled Workers in Sales and Services
+181 Unskilled Workers in Commercial and Domestic Cleaning Services
+1811 Cleaners and Helpers, Commercial
+1812 Cleaners and Helpers, Domestic
+
+182 Unskilled Workers in Laundries and Other Cleaning Services
+1821 Cleaners and Helpers, Laundries
+1822 Cleaners and Helpers, Vehicle Cleaning Services
+1823 Cleaners and Helpers, Window Cleaning Services
+1824 Cleaners and Helpers, Other Cleaning Services
+
+183 Unskilled Workers in Street and Related Sales and Services
+1831 Vendors, Street and Related Sales (excl. Food)
+1832 Workers, Street and Related Services
+
+19 Unskilled Workers in Other Fields
+191 Unskilled Workers in Waste Management and Related
+1911 Garbage and Recycling Collectors
+1912 Refuse Sorters and Related
+1913 Sweepers and Related
+
+199 Unskilled Workers in Other Fields - Other
+1991 Firewood and Water Collectors
+1992 Meter Readers and Vending Machine Collectors
+1993 Odd-Job Persons
+199N Unskilled Workers in Other Fields, Not Elsewhere Classified
