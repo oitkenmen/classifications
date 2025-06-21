@@ -1,0 +1,873 @@
+{"id":"0","classification":"Open Classification of Occupations","sectors":[
+
+
+
+  {"id":"60","sector":"Top Managers in Business and Public Administration","groups":[
+    {"id":"601","group":"Top Managers in Business Administration","classes":[
+      {"id":"6011","class":"Chief Executives, Managing Directors, Managing Partners, and Related"}
+    ]},
+    {"id":"602","group":"Top Managers in Public Administration","classes":[
+      {"id":"6021","class":"Legislators and Related"},
+      {"id":"6022","class":"Senior Officials in Government Organizations"},
+      {"id":"6023","class":"Senior Officials in Non-Government Organizations"}
+    ]}
+  ]},
+
+
+
+  {"id":"50","sector":"Managers in Business and Public Administration","groups":[
+    {"id":"501","group":"Managers in Accounting, Finance, and Related","classes":[
+      {"id":"5011","class":"Finance Managers"},
+      {"id":"5012","class":"Financial and Insurance Services Branch Managers"}
+    ]},
+    {"id":"502","group":"Managers in Advertising, Marketing, Public Relations (PR), and Sales","classes":[
+      {"id":"5021","class":"Advertising and Public Relations (PR) Managers"},
+      {"id":"5022","class":"Marketing and Sales Managers"}
+    ]},
+    {"id":"503","group":"Managers in Law and Related"},
+    {"id":"504","group":"Managers in Other Business Services","classes":[
+      {"id":"5041","class":"Human Resource (HR) Managers"},
+      {"id":"5042","class":"Policy and Planning Managers"},
+      {"id":"504N","class":"Managers in Other Business Services, Not Elsewhere Classified"}
+    ]}
+  ]},
+
+
+
+  {"id":"51","sector":"Managers in Architecture, Design, Engineering, and Sciences","groups":[
+    {"id":"511","group":"Managers in Architecture, Design, Engineering, and Sciences","classes":[
+      {"id":"5111","class":"Research and Development (R&D) Managers"}
+    ]}
+  ]},
+
+
+
+  {"id":"52","sector":"Managers in Arts, Culture, Entertainment, Media, Recreation, and Sports","groups":[
+    {"id":"521","group":"Managers in Arts, Culture, Entertainment, Media, Recreation, and Sports","classes":[
+      {"id":"5211","class":"Cultural, Recreation, and Sports Center Managers"}
+    ]}
+  ]},
+
+
+
+  {"id":"53","sector":"Managers in Education","groups":[
+    {"id":"531","group":"Managers in Education","classes":[
+      {"id":"5311","class":"Education Managers"}
+    ]}
+  ]},
+
+
+
+  {"id":"54","sector":"Managers in Healthcare and Welfare","groups":[
+    {"id":"541","group":"Managers in Healthcare and Welfare","classes":[
+      {"id":"5411","class":"Aged Care Services Managers"},
+      {"id":"5412","class":"Child Care Services Managers"},
+      {"id":"5413","class":"Healthcare Services Managers"},
+      {"id":"5414","class":"Social Welfare Services Managers"}
+    ]}
+  ]},
+
+
+
+  {"id":"55","sector":"Managers in Hospitality (HoReCa) and Tourism","groups":[
+    {"id":"551","group":"Managers in Hospitality (HoReCa) and Tourism","classes":[
+      {"id":"5511","class":"Hotel Managers"},
+      {"id":"5512","class":"Restaurant Managers"},
+      {"id":"5513","class":"Catering Managers"}
+    ]}
+  ]},
+
+
+
+  {"id":"56","sector":"Managers in Information and Communication Technologies (ICT)","groups":[
+    {"id":"561","group":"Managers in Information and Communication Technologies (ICT)","classes":[
+      {"id":"5611","class":"ICT Services Managers"}
+    ]}
+  ]},
+
+
+
+  {"id":"57","sector":"Managers in Production and Related Trades","groups":[
+    {"id":"571","group":"Managers in Agriculture, Aquaculture, Forestry, and Related","classes":[
+      {"id":"5711","class":"Agricultural and Forestry Production Managers"},
+      {"id":"5712","class":"Aquacultural and Fishery Production Managers"}
+    ]},
+    {"id":"572","group":"Managers in Construction and Related","classes":[
+      {"id":"5721","class":"Construction Managers"}
+    ]},
+    {"id":"573","group":"Managers in Extraction, Mining, Quarrying, and Related","classes":[
+      {"id":"5731","class":"Mining Managers"}
+    ]},
+    {"id":"574","group":"Managers in Manufacturing and Related","classes":[
+      {"id":"5741","class":"Manufacturing Managers"}
+    ]},
+    {"id":"575","group":"Managers in Transportation, Warehousing, Delivery, and Related","classes":[
+      {"id":"5751","class":"Distribution, Supply, and Related Managers"}
+    ]}
+  ]},
+
+
+
+  {"id":"58","sector":"Managers in Sales and Services","groups":[
+    {"id":"581","group":"Managers in Sales and Services","classes":[
+      {"id":"5811","class":"Wholesale and Retail Trade Managers"}
+    ]}
+  ]},
+
+
+
+  {"id":"59","sector":"Managers in Other Fields","groups":[
+    {"id":"599","group":"Managers in Other Fields - Other","classes":[
+      {"id":"599N","class":"Managers in Other Fields, Not Elsewhere Classified"}
+    ]}
+  ]},
+
+
+
+  {"id":"40","sector":"Professionals in Business and Public Administration","groups":[
+    {"id":"401","group":"Professionals in Accounting, Finance, and Related","classes":[
+      {"id":"4011","class":"Accountants and Auditors"},
+      {"id":"4012","class":"Financial and Investment Advisers"},
+      {"id":"4013","class":"Financial and Investment Analysts"}
+    ]},
+    {"id":"402","group":"Professionals in Advertising, Marketing, Public Relations (PR), and Sales","classes":[
+      {"id":"4021","class":"Advertising and Marketing Professionals"},
+      {"id":"4022","class":"Public Relations (PR) Professionals"},
+      {"id":"4023","class":"Sales Professionals, ICT"},
+      {"id":"4024","class":"Sales Professionals, Non-ICT"}
+    ]},
+    {"id":"403","group":"Professionals in Law and Related","classes":[
+      {"id":"4031","class":"Judges and Related"},
+      {"id":"4032","class":"Lawyers and Related"},
+      {"id":"403N","class":"Professionals in Law and Related, Not Elsewhere Classified"}
+    ]},
+    {"id":"404","group":"Professionals in Other Business Services","classes":[
+      {"id":"4041","class":"Management and Organization Analysts"},
+      {"id":"4042","class":"Personnel and Careers Professionals"},
+      {"id":"4043","class":"Policy Administration Professionals"},
+      {"id":"4044","class":"Training and Development Professionals"}
+    ]}
+  ]},
+
+
+
+  {"id":"41","sector":"Professionals in Architecture, Design, Engineering, and Sciences","groups":[
+    {"id":"411","group":"Professionals in Architecture and Related","classes":[
+      {"id":"4111","class":"Architects, Building Architecture"},
+      {"id":"4112","class":"Architects, Landscape Architecture"},
+      {"id":"4113","class":"Cartographers, Surveyors, and Related"},
+      {"id":"4114","class":"Planners, Traffic and Urban Planning"}
+    ]},
+    {"id":"412","group":"Professionals in Design and Related","classes":[
+      {"id":"4121","class":"Designers, Fashion and Industrial Design"},
+      {"id":"4122","class":"Designers, Graphic and Multimedia Design"}
+    ]},
+    {"id":"413","group":"Professionals in Engineering and Related","classes":[
+      {"id":"4131","class":"Engineers, Chemical Engineering"},
+      {"id":"4132","class":"Engineers, Civil Engineering"},
+      {"id":"4133","class":"Engineers, Electrical Engineering"},
+      {"id":"4134","class":"Engineers, Electronics Engineering"},
+      {"id":"4135","class":"Engineers, Environmental Engineering"},
+      {"id":"4136","class":"Engineers, Industrial and Production Engineering"},
+      {"id":"4137","class":"Engineers, Mechanical Engineering"},
+      {"id":"4138","class":"Engineers, Metallurgy, Mining, and Related"},
+      {"id":"4139","class":"Engineers, Telecommunications"},
+      {"id":"413N","class":"Engineers, Not Elsewhere Classified"}
+    ]},
+    {"id":"414","group":"Professionals in Life Sciences","classes":[
+      {"id":"4141","class":"Advisers in Agriculture, Aquaculture, Forestry, and Related"},
+      {"id":"4142","class":"Biologists, Botanists, Zoologists, and Related"},
+      {"id":"4143","class":"Environmental Protection Professionals"}
+    ]},
+    {"id":"415","group":"Professionals in Math Sciences","classes":[
+      {"id":"4151","class":"Actuaries, Mathematicians, Statisticians, and Related"}
+    ]},
+    {"id":"416","group":"Professionals in Physical Sciences","classes":[
+      {"id":"4161","class":"Chemists and Related"},
+      {"id":"4162","class":"Geologists, Geophysicists, and Related"},
+      {"id":"4163","class":"Meteorologists and Related"},
+      {"id":"4164","class":"Physicists, Space Scientists, and Related"}
+    ]},
+    {"id":"417","group":"Professionals in Social Sciences","classes":[
+      {"id":"4171","class":"Anthropologists, Sociologists, and Related"},
+      {"id":"4172","class":"Economists and Related"},
+      {"id":"4173","class":"Historians, Philosophers, Political Scientists, and Related"},
+      {"id":"4174","class":"Psychologists and Related"}
+    ]}
+  ]},
+
+
+
+  {"id":"42","sector":"Professionals in Arts, Culture, Entertainment, Media, Recreation, and Sports","groups":[
+    {"id":"421","group":"Professionals in Arts and Entertainment","classes":[
+      {"id":"4211","class":"Actors and Related"},
+      {"id":"4212","class":"Composers, Musicians, Singers, and Related"},
+      {"id":"4213","class":"Choreographers, Dancers, and Related"},
+      {"id":"4214","class":"Directors, Producers, and Related"},
+      {"id":"4215","class":"Photographers and Related"},
+      {"id":"4216","class":"Visual Artists and Related"},
+      {"id":"421N","class":"Professionals in Arts and Entertainment, Not Elsewhere Classified"}
+    ]},
+    {"id":"422","group":"Professionals in Culture and Related","classes":[
+      {"id":"4221","class":"Archivists, Curators, and Related"},
+      {"id":"4222","class":"Librarians and Related"}
+    ]},
+    {"id":"423","group":"Professionals in Media and Related","classes":[
+      {"id":"4231","class":"Announcers and Hosts on Radio, Television, and Other Media"},
+      {"id":"4232","class":"Authors and Related Writers"},
+      {"id":"4233","class":"Journalists and Related Writers"},
+      {"id":"4234","class":"Interpreters, Translators, and Other Linguists"}
+    ]},
+    {"id":"424","group":"Professionals in Recreation and Sports","classes":[
+      {"id":"4241","class":"Sports Athletes and Players"},
+      {"id":"4242","class":"Sports Coaches, Instructors, and Officials"}
+    ]}
+  ]},
+
+
+
+  {"id":"43","sector":"Professionals in Education","groups":[
+    {"id":"431","group":"Professionals in Pre-Primary Education","classes":[
+      {"id":"4311","class":"Teachers, Pre-Primary Education"}
+    ]},
+    {"id":"432","group":"Professionals in Primary Education","classes":[
+      {"id":"4321","class":"Teachers, Primary Education"}
+    ]},
+    {"id":"433","group":"Professionals in Secondary Education","classes":[
+      {"id":"4331","class":"Teachers, Secondary Education"}
+    ]},
+    {"id":"434","group":"Professionals in Tertiary Education","classes":[
+      {"id":"4341","class":"Teachers, Tertiary Education"}
+    ]},
+    {"id":"435","group":"Professionals in Vocational Education","classes":[
+      {"id":"4351","class":"Teachers, Vocational Education"}
+    ]},
+    {"id":"439","group":"Professionals in Education - Other","classes":[
+      {"id":"4391","class":"Teachers, Arts, Not Elsewhere Classified"},
+      {"id":"4392","class":"Teachers, Languages, Not Elsewhere Classified"},
+      {"id":"4393","class":"Teachers, Music, Not Elsewhere Classified"},
+      {"id":"4394","class":"Teachers, Special Needs"}
+    ]}
+  ]},
+
+
+
+  {"id":"44","sector":"Professionals in Healthcare and Welfare","groups":[
+    {"id":"441","group":"Professionals in Medicine","classes":[
+      {"id":"4411","class":"Medical Doctors and Practitioners, General"},
+      {"id":"4412","class":"Medical Doctors and Practitioners, Specialized"}
+    ]},
+    {"id":"442","group":"Professionals in Nursing and Midwifery","classes":[
+      {"id":"4421","class":"Nursing Professionals"},
+      {"id":"4422","class":"Midwifery Professionals"}
+    ]},
+    {"id":"443","group":"Professionals in Traditional and Complementary Medicine","classes":[
+      {"id":"4431","class":"Traditional and Complementary Medicine Professionals"}
+    ]},
+    {"id":"444","group":"Professionals in Veterinary Medicine","classes":[
+      {"id":"4441","class":"Veterinarians and Related"}
+    ]},
+    {"id":"449","group":"Professionals in Healthcare and Welfare - Other","classes":[
+      {"id":"4491","class":"Audiologists and Speech Therapists"},
+      {"id":"4492","class":"Dentists and Related"},
+      {"id":"4493","class":"Dieticians and Nutritionists"},
+      {"id":"4494","class":"Environmental and Occupational Health and Hygiene Professionals"},
+      {"id":"4495","class":"Optometrists and Ophthalmic Opticians"},
+      {"id":"4496","class":"Paramedical Practitioners"},
+      {"id":"4497","class":"Pharmacists and Related"},
+      {"id":"4498","class":"Physiotherapists and Related"},
+      {"id":"449N","class":"Professionals in Healthcare and Welfare, Not Elsewhere Classified"}
+    ]}
+  ]},
+
+
+
+  {"id":"45","sector":"Professionals in Hospitality (HoReCa) and Tourism","groups":[
+    {"id":"451","group":"Professionals in Hospitality (HoReCa) and Tourism","classes":[
+      {"id":"4511","class":"Chefs and Related"}
+    ]}
+  ]},
+
+
+
+  {"id":"46","sector":"Professionals in Information and Communication Technologies (ICT)","groups":[
+    {"id":"461","group":"Professionals in ICT - Databases and Networks","classes":[
+      {"id":"4611","class":"Database Professionals"},
+      {"id":"4612","class":"Network Professionals"},
+      {"id":"4613","class":"Systems Administrators"},
+      {"id":"461N","class":"Professionals in ICT - Databases and Networks, Not Elsewhere Classified"}
+    ]},
+    {"id":"462","group":"Professionals in ICT - Software","classes":[
+      {"id":"4621","class":"Developers, Software"},
+      {"id":"4622","class":"Developers, Web and Multimedia"},
+      {"id":"4623","class":"Systems Analysts"},
+      {"id":"462N","class":"Professionals in ICT - Software, Not Elsewhere Classified"}
+    ]}
+  ]},
+
+
+
+  {"id":"47","sector":"Professionals in Production and Related Services","groups":[
+    {"id":"471","group":"Professionals in Agriculture, Aquaculture, Forestry, and Related"},
+    {"id":"472","group":"Professionals in Construction and Related"},
+    {"id":"473","group":"Professionals in Extraction, Mining, Quarrying, and Related"},
+    {"id":"474","group":"Professionals in Manufacturing and Related"},
+    {"id":"475","group":"Professionals in Transportation, Warehousing, Delivery, and Related","classes":[
+      {"id":"4751","class":"Air Transportation - Pilots and Related"},
+      {"id":"4752","class":"Water Transportation - Captains, Skippers, and Related"}
+    ]}
+  ]},
+
+
+
+  {"id":"48","sector":"Professionals in Sales and Services"},
+
+
+
+  {"id":"49","sector":"Professionals in Other Fields","groups":[
+    {"id":"491","group":"Professionals in Religion","classes":[
+      {"id":"4911","class":"Religion Professionals"}
+    ]},
+    {"id":"492","group":"Professionals in Social Work","classes":[
+      {"id":"4921","class":"Social Work and Counselling Professionals"}
+    ]}
+  ]},
+
+
+
+  {"id":"30","sector":"Associate Professionals in Business and Public Administration","groups":[
+    {"id":"301","group":"Associate Professionals in Accounting, Finance, and Related","classes":[
+      {"id":"3011","class":"Accounting Associate Professionals"},
+      {"id":"3012","class":"Actuary, Math, Statistics, and Related Associate Professionals"},
+      {"id":"3013","class":"Credit and Loans Officers"},
+      {"id":"3014","class":"Finance and Securities Brokers and Dealers"},
+      {"id":"3015","class":"Valuers and Loss Assessors"}
+    ]},
+    {"id":"302","group":"Associate Professionals in Advertising, Marketing, Public Relations (PR), and Sales","classes":[
+      {"id":"3021","class":"Buyers"},
+      {"id":"3022","class":"Sales Representatives, Commercial"},
+      {"id":"3023","class":"Sales Representatives, Insurance"},
+      {"id":"3024","class":"Trade Brokers"}
+    ]},
+    {"id":"303","group":"Associate Professionals in Law and Related","classes":[
+      {"id":"3031","class":"Legal and Related Associate Professionals"},
+      {"id":"3032","class":"Legal Secretaries"}
+    ]},
+    {"id":"304","group":"Associate Professionals in Other Business Services","classes":[
+      {"id":"3041","class":"Administrative and Executive Secretaries"},
+      {"id":"3042","class":"Clearing and Forwarding Agents"},
+      {"id":"3043","class":"Conference and Event Planners"},
+      {"id":"3044","class":"Employment Agents and Contractors"},
+      {"id":"3045","class":"General Secretaries"},
+      {"id":"3046","class":"Office Supervisors"},
+      {"id":"3047","class":"Real Estate Agents and Property Managers"},
+      {"id":"304N","class":"Associate Professionals in Other Business Services, Not Elsewhere Classified"}
+    ]},
+    {"id":"305","group":"Associate Professionals in Public Administration","classes":[
+      {"id":"3051","class":"Government Officials, Licensing"},
+      {"id":"3052","class":"Government Officials, Social Benefits"},
+      {"id":"3053","class":"Government Officials, Tax and Excise"},
+      {"id":"3054","class":"Inspectors, Borders and Customs"},
+      {"id":"3055","class":"Inspectors, Police"},
+      {"id":"305N","class":"Associate Professionals in Public Administration, Not Elsewhere Classified"}
+    ]}
+  ]},
+
+
+
+  {"id":"31","sector":"Associate Professionals in Architecture, Design, Engineering, and Sciences","groups":[
+    {"id":"311","group":"Associate Professionals in Architecture and Design","classes":[
+      {"id":"3111","class":"Draftspersons"},
+      {"id":"3112","class":"Interior Decorators and Designers"}
+    ]},
+    {"id":"312","group":"Associate Professionals in Engineering","classes":[
+      {"id":"3121","class":"Technicians, Chemical Engineering"},
+      {"id":"3122","class":"Technicians, Civil Engineering"},
+      {"id":"3123","class":"Technicians, Electrical Engineering"},
+      {"id":"3124","class":"Technicians, Electronics Engineering"},
+      {"id":"3125","class":"Technicians, Mechanical Engineering"},
+      {"id":"3126","class":"Technicians, Metallurgy, Mining, and Related"}
+    ]},
+    {"id":"313","group":"Associate Professionals in Sciences","classes":[
+      {"id":"3131","class":"Technicians, Life Sciences (excl. Medical)"},
+      {"id":"3132","class":"Technicians, Physical Sciences"}
+    ]},
+    {"id":"319","group":"Associate Professionals in Architecture, Design, Engineering, and Sciences - Other","classes":[
+      {"id":"319N","class":"Associate Professionals in Architecture, Design, Engineering, and Sciences, Not Elsewhere Classified"}
+    ]}
+  ]},
+
+
+
+  {"id":"32","sector":"Associate Professionals in Arts, Culture, Entertainment, Media, Recreation, and Sports","groups":[
+    {"id":"321","group":"Associate Professionals in Arts, Entertainment, and Media","classes":[
+      {"id":"3211","class":"Fashion and Other Models"}
+    ]},
+    {"id":"322","group":"Associate Professionals in Culture and Related","classes":[
+      {"id":"3221","class":"Technicians, Galleries, Libraries, and Museums"}
+    ]},
+    {"id":"323","group":"Associate Professionals in Recreation and Sports","classes":[
+      {"id":"3231","class":"Fitness Instructors, Program Leaders, and Related"}
+    ]},
+    {"id":"329","group":"Associate Professionals in Arts, Culture, Entertainment, Media, Recreation, and Sports - Other","classes":[
+      {"id":"329N","class":"Associate Professionals in Arts, Culture, Entertainment, Media, Recreation, and Sports, Not Elsewhere Classified"}
+    ]}
+  ]},
+
+
+
+  {"id":"33","sector":"Associate Professionals in Education","groups":[
+    {"id":"331","group":"Associate Professionals in Education","classes":[
+      {"id":"3311","class":"Education Methods Specialists"},
+      {"id":"3312","class":"Information Technology (IT) Trainers"},
+      {"id":"331N","class":"Associate Professionals in Education, Not Elsewhere Classified"}
+    ]}
+  ]},
+
+
+
+  {"id":"34","sector":"Associate Professionals in Healthcare and Welfare","groups":[
+    {"id":"341","group":"Associate Professionals in Medicine","classes":[
+      {"id":"3411","class":"Medical and Dental Prosthetic Technicians"},
+      {"id":"3412","class":"Medical and Pathology Laboratory Technicians "},
+      {"id":"3413","class":"Medical Imaging and Therapeutic Equipment Technicians"},
+      {"id":"3494","class":"Medical Records and Health Information Technicians"}
+    ]},
+    {"id":"342","group":"Associate Professionals in Nursing and Midwifery","classes":[
+      {"id":"3421","class":"Nursing Associate Professionals"},
+      {"id":"3422","class":"Midwifery Associate Professionals"}
+    ]},
+    {"id":"343","group":"Associate Professionals in Traditional and Complementary Medicine","classes":[
+      {"id":"3431","class":"Traditional and Complementary Medicine Associate Professionals"}
+    ]},
+    {"id":"344","group":"Associate Professionals in Veterinary Medicine","classes":[
+      {"id":"3441","class":"Veterinary Assistants and Technicians"}
+    ]},
+    {"id":"349","group":"Associate Professionals in Healthcare and Welfare - Other","classes":[
+      {"id":"3491","class":"Ambulance Workers"},
+      {"id":"3492","class":"Community Health Workers"},
+      {"id":"3493","class":"Dental Assistants and Therapists"},
+      {"id":"3494","class":"Dispensing Opticians"},
+      {"id":"3495","class":"Environmental and Occupational Health Inspectors and Associates"},
+      {"id":"3496","class":"Medical and Dental Secretaries"},
+      {"id":"3497","class":"Medical Assistants"},
+      {"id":"3498","class":"Pharmaceutical Assistants and Technicians"},
+      {"id":"3499","class":"Physiotherapy Assistants and Technicians"},
+      {"id":"349N","class":"Associate Professionals in Healthcare and Welfare, Not Elsewhere Classified"}
+    ]}
+  ]},
+
+
+
+  {"id":"35","sector":"Associate Professionals in Hospitality (HoReCa) and Tourism","groups":[
+    {"id":"351","group":"Associate Professionals in Hospitality (HoReCa) and Tourism","classes":[
+      {"id":"3511","class":"Bartenders and Related"},
+      {"id":"3512","class":"Cooks and Related"}
+    ]}
+  ]},
+
+
+
+  {"id":"36","sector":"Associate Professionals in Information and Communication Technologies (ICT)","groups":[
+    {"id":"361","group":"Associate Professionals in Operations, User Support, and Related","classes":[
+      {"id":"3611","class":"Technicians, ICT Operations"},
+      {"id":"3612","class":"Technicians, ICT User Support"},
+      {"id":"3613","class":"Technicians, Networks and Systems"},
+      {"id":"3614","class":"Technicians, Web"}
+    ]},
+    {"id":"362","group":"Associate Professionals in Programming and Broadcasting","classes":[
+      {"id":"3621","class":"Technicians, Programming and Broadcasting"}
+    ]},
+    {"id":"363","group":"Associate Professionals in Telecommunications","classes":[
+      {"id":"3631","class":"Technicians, Telecommunications"}
+    ]}
+  ]},
+
+
+
+  {"id":"37","sector":"Associate Professionals in Production and Related Services","groups":[
+    {"id":"371","group":"Associate Professionals in Agriculture, Aquaculture, Forestry, and Related","classes":[
+      {"id":"3711","class":"Technicians, Agriculture and Related"},
+      {"id":"3712","class":"Technicians, Forestry and Related"}
+    ]},
+    {"id":"372","group":"Associate Professionals in Construction and Related","classes":[
+      {"id":"3721","class":"Construction Supervisors"}
+    ]},
+    {"id":"373","group":"Associate Professionals in Extraction, Mining, Quarrying, and Related","classes":[
+      {"id":"3731","class":"Mining Supervisors"}
+    ]},
+    {"id":"374","group":"Associate Professionals in Manufacturing and Related","classes":[
+      {"id":"3741","class":"Supervisors, Manufacturing and Related"}
+    ]},
+    {"id":"375","group":"Associate Professionals in Process Control","classes":[
+      {"id":"3751","class":"Chemical Processing Plant Controllers"},
+      {"id":"3752","class":"Incinerator and Water Treatment Plant Operators"},
+      {"id":"3753","class":"Metal Production Process Controllers"},
+      {"id":"3754","class":"Oil and Gas Refining Plant Operators"},
+      {"id":"3755","class":"Power Production Plant Operators"},
+      {"id":"375N","class":"Associate Professionals in Process Control, Not Elsewhere Classified"}
+    ]},
+    {"id":"376","group":"Associate Professionals in Transportation, Warehousing, Delivery, and Related","classes":[
+      {"id":"3761","class":"Air Transportation - Traffic Controllers"},
+      {"id":"3762","class":"Air Transportation - Traffic Safety Technicians"},
+      {"id":"3763","class":"Water Transportation - Crew Members"},
+      {"id":"3764","class":"Water Transportation - Engineers"}
+    ]}
+  ]},
+
+
+
+  {"id":"38","sector":"Associate Professionals in Sales and Services"},
+
+
+
+  {"id":"39","sector":"Associate Professionals in Other Fields","groups":[
+    {"id":"391","group":"Associate Professionals in Religion","classes":[
+      {"id":"3911","class":"Religion Associate Professionals"}
+    ]},
+    {"id":"392","group":"Associate Professionals in Social Work","classes":[
+      {"id":"3921","class":"Social Work Associate Professionals"}
+    ]}
+  ]},
+
+
+
+  {"id":"20","sector":"Skilled Workers in Business and Public Administration","groups":[
+    {"id":"201","group":"Skilled Workers in Accounting, Finance, and Related","classes":[
+      {"id":"2011","class":"Clerks, Accounting and Bookkeeping"},
+      {"id":"2012","class":"Clerks, Finance, Insurance, and Statistics"},
+      {"id":"2013","class":"Clerks, Payroll"},
+      {"id":"2014","class":"Debt Collectors and Related"},
+      {"id":"2015","class":"Money-Lenders and Pawnbrokers"}
+    ]},
+    {"id":"202","group":"Skilled Workers in Advertising, Marketing, Public Relations (PR), and Sales","classes":[
+      {"id":"2021","class":"Survey and Market Research Interviewers"}
+    ]},
+    {"id":"203","group":"Skilled Workers in Law and Related"},
+    {"id":"204","group":"Skilled Workers in Other Business Services","classes":[
+      {"id":"2041","class":"Clerks, Coding, Proofreading, and Related"},
+      {"id":"2042","class":"Clerks, Copying and Filing"},
+      {"id":"2043","class":"Clerks, Data Entry"},
+      {"id":"2044","class":"Clerks, General Office"},
+      {"id":"2045","class":"Clerks, Personnel"},
+      {"id":"204N","class":"Skilled Workers in Other Business Services, Not Elsewhere Classified"}
+    ]}
+  ]},
+
+
+
+  {"id":"21","sector":"Skilled Workers in Architecture, Design, Engineering, and Sciences"},
+
+
+
+  {"id":"22","sector":"Skilled Workers in Arts, Culture, Entertainment, Media, Recreation, Sports","groups":[
+    {"id":"221","group":"Skilled Workers in Arts and Related","classes":[
+      {"id":"2211","class":"Handicraft Workers, Glass Makers, Cutters, Grinders, and Finishers"},
+      {"id":"2212","class":"Handicraft Workers, Jewelry and Precious Metal Workers"},
+      {"id":"2213","class":"Handicraft Workers, Musical Instrument Makers and Tuners"},
+      {"id":"2214","class":"Handicraft Workers, Potters and Related Workers"},
+      {"id":"2215","class":"Handicraft Workers, Precision Instrument Makers and Repairers"},
+      {"id":"2216","class":"Handicraft Workers, Signwriters, Decorative Painters, Engravers, and Etchers"},
+      {"id":"2217","class":"Handicraft Workers, Textile, Leather, and Related Materials"},
+      {"id":"2218","class":"Handicraft Workers, Wood, Basketry, and Related Materials"},
+      {"id":"221N","class":"Handicraft Workers, Not Elsewhere Classified"}
+    ]},
+    {"id":"222","group":"Skilled Workers in Culture and Related","classes":[
+      {"id":"2221","class":"Clerks, Libraries"}
+    ]},
+    {"id":"223","group":"Skilled Workers in Entertainment and Related","classes":[
+      {"id":"2231","class":"Bookmakers, Croupiers, and Related"}
+    ]},
+    {"id":"224","group":"Skilled Workers in Media, Recreation and Sports"}
+  ]},
+
+
+
+  {"id":"23","sector":"Skilled Workers in Education","groups":[
+    {"id":"231","group":"Skilled Workers in Education","classes":[
+      {"id":"2311","class":"Child Care Workers"},
+      {"id":"2312","class":"Driving Instructors"},
+      {"id":"2313","class":"Teaching Assistants"}
+    ]}
+  ]},
+
+
+
+  {"id":"24","sector":"Skilled Workers in Healthcare and Welfare","groups":[
+    {"id":"241","group":"Skilled Workers in Healthcare and Welfare","classes":[
+      {"id":"2411","class":"Healthcare Assistants"},
+      {"id":"2412","class":"Home-Based Personal Care Workers"},
+      {"id":"241N","class":"Skilled Workers in Healthcare and Welfare, Not Elsewhere Classified"}
+    ]}
+  ]},
+
+
+
+  {"id":"25","sector":"Skilled Workers in Hospitality (HoReCa) and Tourism","groups":[
+    {"id":"251","group":"Skilled Workers in Hospitality (HoReCa) and Tourism","classes":[
+      {"id":"2511","class":"Fast Food Preparers"},
+      {"id":"2512","class":"Food Service Counter Attendants"},
+      {"id":"2513","class":"Hotel Receptionists"},
+      {"id":"2514","class":"Travel Attendants and Stewards"},
+      {"id":"2515","class":"Travel Consultants"},
+      {"id":"2516","class":"Travel Guides"}
+    ]}
+  ]},
+
+
+
+  {"id":"26","sector":"Skilled Workers in Information and Communication Technologies (ICT)","groups":[
+    {"id":"261","group":"Skilled Workers in Information and Communication Technologies (ICT)","classes":[
+      {"id":"2611","class":"Printing Trades Workers, Pre-Press Technicians"},
+      {"id":"2612","class":"Printing Trades Workers, Printers "},
+      {"id":"2613","class":"Printing Trades Workers, Print Finishing and Binding"},
+      {"id":"2614","class":"Telephone Switchboard Operators"},
+      {"id":"2615","class":"Typists and Word Processing Operators"}
+    ]}
+  ]},
+
+
+
+  {"id":"27","sector":"Skilled Workers in Production and Related Trades","groups":[
+    {"id":"271","group":"Skilled Workers in Agriculture, Aquaculture, Forestry, and Related (Market-Oriented)","classes":[
+      {"id":"2711","class":"Mixed Farming Producers"},
+      {"id":"2712","class":"Animal Farming Producers"},
+      {"id":"2713","class":"Crop Farming Producers"},
+      {"id":"2714","class":"Aquaculture and Related Workers"},
+      {"id":"2715","class":"Fishers, Deep Sea"},
+      {"id":"2716","class":"Fishers, Inland and Coastal Waters"},
+      {"id":"2717","class":"Forestry and Related Workers"},
+      {"id":"2718","class":"Hunters and Trappers"}
+    ]},
+    {"id":"272","group":"Skilled Workers in Agriculture, Aquaculture, Forestry, and Related (Subsistence)","classes":[
+      {"id":"2721","class":"Subsistence Mixed Farmers"},
+      {"id":"2722","class":"Subsistence Animal Farmer"},
+      {"id":"2723","class":"Subsistence Crop Farmers"},
+      {"id":"2724","class":"Subsistence Aquaculture, Forestry, and Related Workers"}
+    ]},
+    {"id":"273","group":"Skilled Workers in Construction and Related","classes":[
+      {"id":"2731","class":"Building and Related Electricians"},
+      {"id":"2732","class":"Building Finishers and Related Trades Workers"},
+      {"id":"2733","class":"Building Frame and Related Trades Workers"},
+      {"id":"2734","class":"Building Structure Cleaners"},
+      {"id":"2735","class":"Painters and Related Workers"},
+      {"id":"2736","class":"Spray Painters and Varnishers"}
+    ]},
+    {"id":"274","group":"Skilled Workers in Extraction, Mining, Quarrying, and Related","classes":[
+      {"id":"2741","class":"Blasters and Shotfirers"},
+      {"id":"2742","class":"Borers, Well Drillers, and Related"},
+      {"id":"2743","class":"Cement, Stone, and Other Mineral Products Machine Operators"},
+      {"id":"2744","class":"Mineral and Stone Processing Plant Operators"},
+      {"id":"2745","class":"Miners and Quarriers"}
+    ]},
+    {"id":"275","group":"Skilled Workers in Manufacturing","classes":[
+      {"id":"2751","class":"Clerks, Production"},
+      {"id":"2752","class":"Food Processing and Related Trades Workers"},
+      {"id":"2753","class":"Garment and Related Trades Workers"},
+      {"id":"2754","class":"Machinery, Metallurgy, and Related Trades Workers"},
+      {"id":"2755","class":"Wood and Related Trades Workers"}
+    ]},
+    {"id":"276","group":"Skilled Workers in Manufactring - Assemblers","classes":[
+      {"id":"2761","class":"Assemblers, Electrical and Electronic Equipment"},
+      {"id":"2762","class":"Assemblers, Mechanical Machinery"},
+      {"id":"276N","class":"Assemblers, Not Elsewhere Classified"}
+    ]},
+    {"id":"277","group":"Skilled Workers in Manufactring - Mobile Plant and Machinery","classes":[
+      {"id":"2771","class":"Mobile Plant and Machine Operators - Crane, Hoist, and Related"},
+      {"id":"2772","class":"Mobile Plant and Machine Operators - Earthmoving and Related"},
+      {"id":"2773","class":"Mobile Plant and Machine Operators - Lifting Trucks"},
+      {"id":"2774","class":"Mobile Plant and Machine Operators - Mobile Farms and Forestry Plants"}
+    ]},
+    {"id":"278","group":"Skilled Workers in Manufactring - Stationary Plant and Machinery","classes":[
+      {"id":"2781","class":"Stationary Plant and Machine Operators - Boilers and Steam Engines"},
+      {"id":"2782","class":"Stationary Plant and Machine Operators - Bottling, Labelling, Packing"},
+      {"id":"2783","class":"Stationary Plant and Machine Operators - Ceramics, Glass, and Related"},
+      {"id":"2784","class":"Stationary Plant and Machine Operators - Chemical and Photographic Products"},
+      {"id":"2785","class":"Stationary Plant and Machine Operators - Food and Related Products"},
+      {"id":"2786","class":"Stationary Plant and Machine Operators - Fur, Leather, and Textile Products"},
+      {"id":"2787","class":"Stationary Plant and Machine Operators - Metal and Related Products"},
+      {"id":"2788","class":"Stationary Plant and Machine Operators - Paper, Wood, and Related Products"},
+      {"id":"2789","class":"Stationary Plant and Machine Operators - Plastic, Rubber, and Related Products"},
+      {"id":"278N","class":"Stationary Plant and Machine Operators - Not Elsewhere Classified"}
+    ]},
+    {"id":"279","group":"Skilled Workers in Transportation, Warehousing, Delivery, and Related","classes":[
+      {"id":"2791","class":"Clerks, Stock"},
+      {"id":"2792","class":"Clerks, Transport"},
+      {"id":"2793","class":"Delivery - Mail Carriers and Sorting Clerks"},
+      {"id":"2794","class":"Raiload Transportation - Locomotive Engine Drivers"},
+      {"id":"2795","class":"Raiload Transportation - Railway Brake, Signal, and Switch Operators"},
+      {"id":"2796","class":"Road Transportation - Bus and Tram Drivers"},
+      {"id":"2797","class":"Road Transportation - Car and Van Drivers"},
+      {"id":"2798","class":"Road Transportation - Heavy Truck Drivers"},
+      {"id":"2799","class":"Road Transportation - Motorcycle Drivers"}
+    ]}
+  ]},
+
+
+
+  {"id":"28","sector":"Skilled Workers in Sales and Services","groups":[
+    {"id":"281","group":"Skilled Workers in Beauty Services","classes":[
+      {"id":"2811","class":"Barbers, Hairstylists, and Related"},
+      {"id":"2812","class":"Beauticians and Related"}
+    ]},
+    {"id":"282","group":"Skilled Workers in Cleaning Services","classes":[
+      {"id":"2821","class":"Building Caretakers"},
+      {"id":"2822","class":"Cleaning and Housekeeping Supervisors, Commercial"},
+      {"id":"2823","class":"Cleaning and Housekeeping Supervisors, Domestic"}
+    ]},
+    {"id":"283","group":"Skilled Workers in Customer Services","classes":[
+      {"id":"2831","class":"Bank Tellers and Related"},
+      {"id":"2832","class":"Cashiers and Tickets Clerks"},
+      {"id":"2833","class":"Contact Center Clerks"},
+      {"id":"2834","class":"General Receptionists"},
+      {"id":"2835","class":"Inquiry Clerks"},
+      {"id":"2836","class":"Scribes and Related"},
+      {"id":"2837","class":"Service Station Attendants"},
+      {"id":"283N","class":"Skilled Workers in Customer Services, Not Elsewhere Classified"}
+    ]},
+    {"id":"284","group":"Skilled Workers in Maintenance and Repair Services","classes":[
+      {"id":"2841","class":"Agricultural and Industrial Machinery Mechanics and Repairers"},
+      {"id":"2842","class":"Air Conditioning and Refrigeration Mechanics"},
+      {"id":"2843","class":"Aircraft Engine Mechanics and Repairers"},
+      {"id":"2844","class":"Bicycle and Related Repairers"},
+      {"id":"2845","class":"Electrical Line Installers and Repairers"},
+      {"id":"2846","class":"Electrical Mechanics and Fitters"},
+      {"id":"2847","class":"Electronics Mechanics and Servicers"},
+      {"id":"2848","class":"ICT Installers and Servicers"},
+      {"id":"2849","class":"Motor Vehicle Mechanics and Repairers"}
+    ]},
+    {"id":"285","group":"Skilled Workers in Protective Services","classes":[
+      {"id":"2851","class":"Firefighters"},
+      {"id":"2852","class":"Police Officers"},
+      {"id":"2853","class":"Prison Guards"},
+      {"id":"2854","class":"Security Guards"},
+      {"id":"285N","class":"Skilled Workers in Protective Services, Not Elsewhere Classified"}
+    ]},
+    {"id":"286","group":"Skilled Workers in Sales","classes":[
+      {"id":"2861","class":"Sales Demonstrators"},
+      {"id":"2862","class":"Salespersons, Contact Center"},
+      {"id":"2863","class":"Salespersons, Door-to-Door"},
+      {"id":"2864","class":"Salespersons, Stall and Market"},
+      {"id":"2865","class":"Salespersons, Street Food"},
+      {"id":"2866","class":"Shopkeepers"},
+      {"id":"2867","class":"Shop Supervisors"},
+      {"id":"2868","class":"Shop Sales Assistants"},
+      {"id":"286N","class":"Skilled Workers in Sales, Not Elsewhere Classified"}
+    ]}
+  ]},
+
+
+
+  {"id":"29","sector":"Skilled Workers in Other Fields","groups":[
+    {"id":"299","group":"Skilled Workers in Other Fields - Other","classes":[
+      {"id":"2991","class":"Astrologers, Fortune-Tellers, and Related"},
+      {"id":"2992","class":"Companions and Valets"},
+      {"id":"2993","class":"Embalmers and Undertakers"},
+      {"id":"2994","class":"Fumigators and Other Pest and Weed Controllers"},
+      {"id":"2995","class":"Pet Groomers and Other Animal Care Workers"},
+      {"id":"2996","class":"Product Graders and Testers (excl. Foods and Beverages)"},
+      {"id":"2997","class":"Transport Conductors"},
+      {"id":"2998","class":"Underwater Divers"},
+      {"id":"299N","class":"Skilled Workers in Other Fields, Not Elsewhere Classified"}
+    ]}
+  ]},
+
+
+
+  {"id":"10","sector":"Unskilled Workers in Business and Public Administration"},
+
+
+
+  {"id":"11","sector":"Unskilled Workers in Architecture, Design, Engineering, and Sciences"},
+
+
+
+  {"id":"12","sector":"Unskilled Workers in Arts, Culture, Entertainment, Media, Recreation, and Sports"},
+
+
+
+  {"id":"13","sector":"Unskilled Workers in Education"},
+
+
+
+  {"id":"14","sector":"Unskilled Workers in Healthcare and Welfare"},
+
+
+
+  {"id":"15","sector":"Unskilled Workers in Hospitality (HoReCa) and Tourism","groups":[
+    {"id":"151","group":"Unskilled Workers in Hospitality (HoReCa) and Tourism","classes":[
+      {"id":"1511","class":"Kitchen Helpers"},
+      {"id":"1512","class":"Waiters and Related"}
+    ]}
+  ]},
+
+
+
+  {"id":"16","sector":"Unskilled Workers in Information and Communication Technologies (ICT)"},
+
+
+
+  {"id":"17","sector":"Unskilled Workers in Production and Related Trades","groups":[
+    {"id":"171","group":"Unskilled Workers in Agriculture, Aquaculture, Forestry, and Related","classes":[
+      {"id":"1711","class":"Laborers in Mixed Farming"},
+      {"id":"1712","class":"Laborers in Animal Farming"},
+      {"id":"1713","class":"Laborers in Crop Farming"},
+      {"id":"1714","class":"Laborers in Gardening, Horticulture, and Related"},
+      {"id":"1715","class":"Laborers in Aquaculture and Related"},
+      {"id":"1716","class":"Laborers in Forestry and Related"}
+    ]},
+    {"id":"172","group":"Unskilled Workers in Construction and Related","classes":[
+      {"id":"1721","class":"Laborers in Building Construction"},
+      {"id":"1722","class":"Laborers in Civil Engineering Construction"}
+    ]},
+    {"id":"173","group":"Unskilled Workers in Extraction, Mining, Quarrying, and Related","classes":[
+      {"id":"1731","class":"Laborers in Extraction, Mining, Quarrying, and Related"}
+    ]},
+    {"id":"174","group":"Unskilled Workers in Manufacturing and Related","classes":[
+      {"id":"1741","class":"Hand Packers and Related"},
+      {"id":"174N","class":"Unskilled Workers in Manufacturing and Related, Not Elsewhere Classified"}
+    ]},
+    {"id":"175","group":"Unskilled Workers in Transportation, Warehousing, Delivery, and Related","classes":[
+      {"id":"1751","class":"Deliverers, Messengers, Porters, and Related"},
+      {"id":"1752","class":"Drivers, Animal-Drawn Vehicles and Machinery"},
+      {"id":"1753","class":"Drivers, Hand and Pedal Vehicles"},
+      {"id":"1754","class":"Freight Handlers"},
+      {"id":"1755","class":"Shelf Fillers"}
+    ]}
+  ]},
+
+
+
+  {"id":"18","sector":"Unskilled Workers in Sales and Services","groups":[
+    {"id":"181","group":"Unskilled Workers in Commercial and Domestic Cleaning Services","classes":[
+      {"id":"1811","class":"Cleaners and Helpers, Commercial"},
+      {"id":"1812","class":"Cleaners and Helpers, Domestic"}
+    ]},
+    {"id":"182","group":"Unskilled Workers in Laundries and Other Cleaning Services","classes":[
+      {"id":"1821","class":"Cleaners and Helpers, Laundries"},
+      {"id":"1822","class":"Cleaners and Helpers, Vehicle Cleaning Services"},
+      {"id":"1823","class":"Cleaners and Helpers, Window Cleaning Services"},
+      {"id":"1824","class":"Cleaners and Helpers, Other Cleaning Services"}
+    ]},
+    {"id":"183","group":"Unskilled Workers in Street and Related Sales and Services","classes":[
+      {"id":"1831","class":"Vendors, Street and Related Sales (excl. Food)"},
+      {"id":"1832","class":"Workers, Street and Related Services"}
+    ]}
+  ]},
+
+
+
+  {"id":"19","sector":"Unskilled Workers in Other Fields","groups":[
+    {"id":"191","group":"Unskilled Workers in Waste Management and Related","classes":[
+      {"id":"1911","class":"Garbage and Recycling Collectors"},
+      {"id":"1912","class":"Refuse Sorters and Related"},
+      {"id":"1913","class":"Sweepers and Related"}
+    ]},
+    {"id":"199","group":"Unskilled Workers in Other Fields - Other","classes":[
+      {"id":"1991","class":"Firewood and Water Collectors"},
+      {"id":"1992","class":"Meter Readers and Vending Machine Collectors"},
+      {"id":"1993","class":"Odd-Job Persons"},
+      {"id":"199N","class":"Unskilled Workers in Other Fields, Not Elsewhere Classified"}
+    ]}
+  ]}
+]}
