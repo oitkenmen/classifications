@@ -1,0 +1,697 @@
+{"id":"0","classification":"Open Classification of Industries","sectors":[
+
+
+
+  {"id":"01","sector":"Agriculture, Aquaculture, Forestry, and Related","groups":[
+
+    {"id":"0101","group":"Agriculture - Mixed Farming","classes":[
+      {"id":"010101","class":"Agriculture - Mixed Farming"}
+    ]},
+    {"id":"0102","group":"Agriculture - Animal Farming and Related","classes":[
+      {"id":"010201","class":"Farming of Cattle"},
+      {"id":"010202","class":"Farming of Horses and Other Equines"},
+      {"id":"010203","class":"Farming of Pigs"},
+      {"id":"010204","class":"Farming of Poultry"},
+      {"id":"010205","class":"Farming of Sheep and Goats"},
+      {"id":"010206","class":"Farming of Other Animals"},
+      {"id":"010207","class":"Hunting, Trapping, and Related Services"}
+    ]},
+    {"id":"0103","group":"Agriculture - Crop Farming, Non-Perennial Crops","classes":[
+      {"id":"010301","class":"Growing of Cereals (excl. Rice), Leguminous Crops, and Oil Seeds"},
+      {"id":"010302","class":"Growing of Fibre Crops"},
+      {"id":"010303","class":"Growing of Flowers"},
+      {"id":"010304","class":"Growing of Mushrooms and Truffles"},
+      {"id":"010305","class":"Growing of Rice"},
+      {"id":"010306","class":"Growing of Sugar Cane"},
+      {"id":"010307","class":"Growing of Tobacco"},
+      {"id":"010308","class":"Growing of Vegetables and Melons, Roots and Tubers"},
+      {"id":"010309","class":"Growing of Other Non-Perennial Crops"}
+    ]},
+    {"id":"0104","group":"Agriculture - Crop Farming, Perennial Crops","classes":[
+      {"id":"010401","class":"Growing of Aromatic Crops, Pharmaceutical Crops, Spices"},
+      {"id":"010402","class":"Growing of Berries"},
+      {"id":"010403","class":"Growing of Beverage Crops"},
+      {"id":"010404","class":"Growing of Citrus Fruits"},
+      {"id":"010405","class":"Growing of Grapes"},
+      {"id":"010406","class":"Growing of Nuts"},
+      {"id":"010407","class":"Growing of Oleaginous Fruits"},
+      {"id":"010408","class":"Growing of Pome Fruits and Stone Fruits"},
+      {"id":"010409","class":"Growing of Tropical and Subtropical Fruits"},
+      {"id":"010410","class":"Growing of Other Perennial Crops"}
+    ]},
+    {"id":"0105","group":"Apiculture","classes":[
+      {"id":"010501","class":"Farming of Bees"}
+    ]},
+    {"id":"0106","group":"Aquaculture and Related","classes":[
+      {"id":"010601","class":"Aquaculture"},
+      {"id":"010602","class":"Fishing and Related Services"}
+    ]},
+    {"id":"0107","group":"Forestry and Related","classes":[
+      {"id":"010701","class":"Gathering of Non-Wood Forest Products"},
+      {"id":"010702","class":"Logging"},
+      {"id":"010703","class":"Silviculture and Other Activities"}
+    ]},
+    {"id":"0199","group":"Support Activities","classes":[
+      {"id":"019901","class":"Support Activities for Animal Farming"},
+      {"id":"019902","class":"Support Activities for Crop Farming"},
+      {"id":"019903","class":"Plant Propagation"},
+      {"id":"019904","class":"Post-Harvest Crop Activities"},
+      {"id":"019905","class":"Seed Processing for Propagation"},
+      {"id":"019906","class":"Support Activities to Forestry"}
+    ]}
+  ]},
+
+
+
+  {"id":"02","sector":"Extraction, Mining, Quarrying","groups":[
+
+    {"id":"0201","group":"Extraction","classes":[
+      {"id":"020101","class":"Extraction of Crude Oil and Natural Gas"}
+    ]},
+    {"id":"0202","group":"Mining","classes":[
+      {"id":"020201","class":"Mining of Hard Coal and Lignite"},
+      {"id":"020202","class":"Mining of Ferrous Metal Ores"},
+      {"id":"020203","class":"Mining of Non-Ferrous Metal Ores"}
+    ]},
+    {"id":"0203","group":"Other Extraction, Mining, and Quarrying","classes":[
+      {"id":"020301","class":"Other Extraction, Mining, and Quarrying"}
+    ]},
+    {"id":"0299","group":"Support Activities","classes":[
+      {"id":"029901","class":"Support Activities for Extraction of Oil and Gas"},
+      {"id":"029902","class":"Support Activities - Other"}
+    ]}
+  ]},
+
+
+
+  {"id":"03","sector":"Construction","groups":[
+
+    {"id":"0301","group":"Building Construction","classes":[
+      {"id":"030101","class":"Building Construction - Non-Residential, Non-Industrial"},
+      {"id":"030102","class":"Building Construction - Non-Residential, Industrial"},
+      {"id":"030103","class":"Building Construction – Residential"}
+    ]},
+    {"id":"0302","group":"Civil Engineering Construction","classes":[
+      {"id":"030201","class":"Civil Engineering Construction - Roads, Railroads, Bridges, Tunnels, and Related"},
+      {"id":"030202","class":"Civil Engineering Construction - Utility Systems"},
+      {"id":"030203","class":"Civil Engineering Construction – Other"}
+    ]},
+    {"id":"0399","group":"Specialized Activities","classes":[
+      {"id":"039901","class":"Specialized Activities - Building Completion and Finishing"},
+      {"id":"039902","class":"Specialized Activities - Building Equipment Installation"},
+      {"id":"039903","class":"Specialized Activities - Demolition and Site Preparation"},
+      {"id":"039904","class":"Specialized Activities - Other"}
+    ]}
+  ]},
+
+
+
+  {"id":"04","sector":"Manufacturing","groups":[
+
+    {"id":"0401","group":"Food","classes":[
+      {"id":"040101","class":"Food - Animal Feeds"},
+      {"id":"040102","class":"Food - Meat"},
+      {"id":"040103","class":"Food - Fish and Other Seafood"},
+      {"id":"040104","class":"Food - Fruits, Nuts, Vegetables"},
+      {"id":"040105","class":"Food - Fats and Oils"},
+      {"id":"040106","class":"Food - Dairy Products"},
+      {"id":"040107","class":"Food - Grain Products"},
+      {"id":"040108","class":"Food - Bakery Products"},
+      {"id":"040109","class":"Food - Noodles, Pasta, and Related"},
+      {"id":"040110","class":"Food - Chocolate, Confectionery, Sugar"},
+      {"id":"040111","class":"Food - Prepared Meals"},
+      {"id":"040112","class":"Food – Other"}
+    ]},
+    {"id":"0402","group":"Beverages","classes":[
+      {"id":"040201","class":"Beverages - Non-Alcohol"},
+      {"id":"040202","class":"Beverages – Alcohol"}
+    ]},
+    {"id":"0403","group":"Pharmaceuticals and Tobacco","classes":[
+      {"id":"040301","class":"Pharmaceuticals and Related Products"},
+      {"id":"040302","class":"Tobacco and Related Products"}
+    ]},
+    {"id":"0411","group":"Fur and Related Products","classes":[
+      {"id":"041101","class":"Fur and Related Products"}
+    ]},
+    {"id":"0412","group":"Leather and Related Products","classes":[
+      {"id":"041201","class":"Leather and Related Products"}
+    ]},
+    {"id":"0413","group":"Textiles and Related Products","classes":[
+      {"id":"041301","class":"Textiles - Preparation and Spinning of Fibres"},
+      {"id":"041302","class":"Textiles - Weaving"},
+      {"id":"041303","class":"Textiles - Finishing"},
+      {"id":"041304","class":"Textile Products - Carpets, Mats, Rugs, Tiles"},
+      {"id":"041305","class":"Textile Products - Cordage, Netting, Rope, Twine"},
+      {"id":"041306","class":"Textile Products - Crocheted and Knitted Fabrics"},
+      {"id":"041307","class":"Textile Products - Made-Up Textile Articles (excl. Apparel)"},
+      {"id":"041308","class":"Textile Products – Other"}
+    ]},
+    {"id":"0414","group":"Apparel, Footwear, and Related Products","classes":[
+      {"id":"041401","class":"Apparel, Footwear, and Related Products"}
+    ]},
+    {"id":"0415","group":"Handbags, Luggage, and Related Products","classes":[
+      {"id":"041501","class":"Handbags, Luggage, and Related Products"}
+    ]},
+    {"id":"0421","group":"Wood and Related Products","classes":[
+      {"id":"042101","class":"Wood - Sawmilling and Planing"},
+      {"id":"042102","class":"Wood Products - Boards and Panels"},
+      {"id":"042103","class":"Wood Products - Boxes, Crates, Pallets, and Related"},
+      {"id":"042104","class":"Wood Products - Carpentry and Joinery"},
+      {"id":"042105","class":"Wood Products – Other"}
+    ]},
+    {"id":"0422","group":"Paper and Related Products","classes":[
+      {"id":"042201","class":"Paper, Paperboard, and Pulp"},
+      {"id":"042202","class":"Paper Products - Bags, Boxes, Trays, and Related"},
+      {"id":"042203","class":"Paper Products – Other"}
+    ]},
+    {"id":"0423","group":"Metals and Related Products","classes":[
+      {"id":"042301","class":"Metals - Basic Ferrous Metals"},
+      {"id":"042302","class":"Metals - Basic Non-Ferrous Metals"},
+      {"id":"042303","class":"Metals - Casting of Ferrous Metals"},
+      {"id":"042304","class":"Metals - Casting of Non-Ferrous Metals"},
+      {"id":"042305","class":"Metals - Diverse Treatment"},
+      {"id":"042306","class":"Metal Products - Ammunition and Weapons"},
+      {"id":"042307","class":"Metal Products - Boilers, Reservoirs, Tanks, and Related"},
+      {"id":"042308","class":"Metal Products - Cutlery, Hand Tools, and General Hardware"},
+      {"id":"042309","class":"Metal Products - Powder Metallurgy"},
+      {"id":"042310","class":"Metal Products - Steam Generators (excl. Boilers)"},
+      {"id":"042311","class":"Metal Products - Structural Articles"},
+      {"id":"042312","class":"Metal Products – Other"}
+    ]},
+    {"id":"0424","group":"Glass and Related Products","classes":[
+      {"id":"042401","class":"Glass and Related Products"}
+    ]},
+    {"id":"0425","group":"Non-Metallic Mineral Products (excl. Glass)","classes":[
+      {"id":"042501","class":"Non-Metallic Mineral Products - Cement, Lime, and Plaster"},
+      {"id":"042502","class":"Non-Metallic Mineral Products - Clay Building Materials"},
+      {"id":"042503","class":"Non-Metallic Mineral Products - Porcelain and Other Ceramics"},
+      {"id":"042504","class":"Non-Metallic Mineral Products - Refractory Articles"},
+      {"id":"042505","class":"Non-Metallic Mineral Products - Stone"},
+      {"id":"042506","class":"Non-Metallic Mineral Products – Other"}
+    ]},
+    {"id":"0426","group":"Plastics and Related Products","classes":[
+      {"id":"042601","class":"Plastics and Related Products"}
+    ]},
+    {"id":"0427","group":"Rubber and Related Products","classes":[
+      {"id":"042701","class":"Rubber and Related Products - Tires and Tubes"},
+      {"id":"042702","class":"Rubber and Related Products – Other"}
+    ]},
+    {"id":"0428","group":"Chemicals and Related Products","classes":[
+      {"id":"042801","class":"Basic Chemicals"},
+      {"id":"042802","class":"Chemical Products - Cleaning and Polishing, Detergents, Perfumes, and Related"},
+      {"id":"042803","class":"Chemical Products - Fertilizers and Nitrogen Compounds"},
+      {"id":"042804","class":"Chemical Products - Inks, Mastics, Paints, and Related"},
+      {"id":"042805","class":"Chemical Products - Man-Made Fibres"},
+      {"id":"042806","class":"Chemical Products - Pesticides and Other Agrochemical Products"},
+      {"id":"042807","class":"Chemical Products - Plastics and Synthetic Rubber in Primary Forms"},
+      {"id":"042808","class":"Chemical Products – Other"}
+    ]},
+    {"id":"0429","group":"Coke and Refined Petroleum","classes":[
+      {"id":"042901","class":"Coke Oven Products"},
+      {"id":"042902","class":"Refined Petroleum Products"}
+    ]},
+    {"id":"0431","group":"Transport and Related Products","classes":[
+      {"id":"043101","class":"Space Transport, Parts and Supplies"},
+      {"id":"043102","class":"Air Transport, Parts and Supplies"},
+      {"id":"043103","class":"Railroad Transport, Parts and Supplies"},
+      {"id":"043104","class":"Road Transport, Parts and Supplies"},
+      {"id":"043105","class":"Water Transport, Parts and Supplies"}
+    ]},
+    {"id":"0432","group":"Industrial Machinery, Equipment, and Tools - General","classes":[
+      {"id":"043201","class":"Bearings and Gears, Driving and Gearing Elements"},
+      {"id":"043202","class":"Burners, Furnaces, Heaters, Ovens, and Related"},
+      {"id":"043203","class":"Compressors, Pumps, Taps, and Valves"},
+      {"id":"043204","class":"Engines and Turbines (excl. Transport Engines)"},
+      {"id":"043205","class":"Fluid Power Equipment"},
+      {"id":"043206","class":"Handling, Lifting, Loading or Unloading Machinery and Equipment"},
+      {"id":"043207","class":"Power-Driven Hand Tools"},
+      {"id":"043208","class":"Other General Industrial Machinery, Equipment, and Tools"}
+    ]},
+    {"id":"0433","group":"Industrial Machinery, Equipment, and Tools - Special","classes":[
+      {"id":"043301","class":"For Agriculture and Forestry"},
+      {"id":"043302","class":"For Apparel, Leather, and Textile Production"},
+      {"id":"043303","class":"For Beverage, Food, and Tobacco Processing"},
+      {"id":"043304","class":"For Construction, Mining, and Quarrying"},
+      {"id":"043305","class":"For Metallurgy"},
+      {"id":"043306","class":"Metal-Forming Machinery, Equipment, and Tools"},
+      {"id":"043307","class":"Other Special Industrial Machinery, Equipment, and Tools"}
+    ]},
+    {"id":"0434","group":"Office Machinery, Equipment, and Tools","classes":[
+      {"id":"043401","class":"Office Machinery, Equipment, and Tools"}
+    ]},
+    {"id":"0435","group":"Electric Appliances","classes":[
+      {"id":"043501","class":"Accumulators and Batteries"},
+      {"id":"043502","class":"Domestic Appliances"},
+      {"id":"043503","class":"Electric Generators, Motors, Transformers, and Related"},
+      {"id":"043504","class":"Electric Lighting Equipment"},
+      {"id":"043505","class":"Other Electric Appliances"}
+    ]},
+    {"id":"0436","group":"Electronic Appliances","classes":[
+      {"id":"043601","class":"Communication Equipment"},
+      {"id":"043602","class":"Computers and Related Peripherals"},
+      {"id":"043603","class":"Consumer Electronics"},
+      {"id":"043604","class":"Control, Measuring, Navigating, and Testing Equipment"},
+      {"id":"043605","class":"Electromedical, Electrotherapeutic, and Irradiation Equipment"},
+      {"id":"043606","class":"Electronic Boards and Components"},
+      {"id":"043607","class":"Magnetic and Optical Media"},
+      {"id":"043608","class":"Optical Instruments and Photographic Equipment"}
+    ]},
+    {"id":"0437","group":"Wiring and Related Products","classes":[
+      {"id":"043701","class":"Wiring and Related Products - Fibre Optic Cables"},
+      {"id":"043702","class":"Wiring and Related Products - Other Cables and Wires"},
+      {"id":"043703","class":"Wiring and Related Products - Wiring Devices"}
+    ]},
+    {"id":"0438","group":"Furniture and Related Products","classes":[
+      {"id":"043801","class":"Furniture and Related Products"}
+    ]},
+    {"id":"0439","group":"Other Products","classes":[
+      {"id":"043901","class":"Other Products - Clocks and Watches"},
+      {"id":"043902","class":"Other Products - Jewelry and Related"},
+      {"id":"043903","class":"Other Products - Medical Instruments and Supplies"},
+      {"id":"043904","class":"Other Products - Musical Instruments and Supplies"},
+      {"id":"043905","class":"Other Products - Recreation and Sports Equipment"},
+      {"id":"043906","class":"Other Products - Toys and Related"},
+      {"id":"043907","class":"Other Products - Not Elsewhere Classified"}
+    ]}
+  ]},
+
+
+
+  {"id":"05","sector":"Transportation, Warehousing, Delivery","groups":[
+
+    {"id":"0501","group":"Space Transportation","classes":[
+      {"id":"050101","class":"Space Transportation - Freight"},
+      {"id":"050102","class":"Space Transportation – Passenger"}
+    ]},
+    {"id":"0502","group":"Air Transportation","classes":[
+      {"id":"050201","class":"Air Transportation - Freight"},
+      {"id":"050202","class":"Air Transportation – Passenger"}
+    ]},
+    {"id":"0503","group":"Railroad Transportation","classes":[
+      {"id":"050301","class":"Railroad Transportation - Freight"},
+      {"id":"050302","class":"Railroad Transportation - Passenger - Inter-Urban Rail Transit Systems"},
+      {"id":"050303","class":"Railroad Transportation - Passenger - Urban Rail Transit Systems"}
+    ]},
+    {"id":"0504","group":"Road Transportation","classes":[
+      {"id":"050401","class":"Road Transportation - Freight"},
+      {"id":"050402","class":"Road Transportation - Passenger - Inter-Urban and Rural Bus Transit Systems"},
+      {"id":"050403","class":"Road Transportation - Passenger - Urban Bus Transit Systems"},
+      {"id":"050404","class":"Road Transportation - Passenger - Taxi, Limousine, and Charter Bus Services"}
+    ]},
+    {"id":"0505","group":"Water Transportation","classes":[
+      {"id":"050501","class":"Water Transportation - Freight"},
+      {"id":"050502","class":"Water Transportation – Passenger"}
+    ]},
+    {"id":"0506","group":"Pipeline Transportation","classes":[
+      {"id":"050601","class":"Pipeline Transportation of Crude Oil and Natural Gas"},
+      {"id":"050602","class":"Pipeline Transportation – Other"}
+    ]},
+    {"id":"0507","group":"Warehousing","classes":[
+      {"id":"050701","class":"Warehousing"}
+    ]},
+    {"id":"0508","group":"Delivery","classes":[
+      {"id":"050801","class":"Fast Delivery - Courier Services"},
+      {"id":"050802","class":"Slow Delivery - Postal Services"}
+    ]},
+    {"id":"0599","group":"Support Activities","classes":[
+      {"id":"059901","class":"Support Activities for Space Transportation"},
+      {"id":"059902","class":"Support Activities for Air Transportation"},
+      {"id":"059903","class":"Support Activities for Railroad Transportation"},
+      {"id":"059904","class":"Support Activities for Road Transportation"},
+      {"id":"059905","class":"Support Activities for Water Transportation"},
+      {"id":"059906","class":"Support Activities for Pipeline Transportation"},
+      {"id":"059907","class":"Support Activities - Other"}
+    ]}
+  ]},
+
+
+
+  {"id":"06","sector":"Wholesale and Retail Trade","groups":[
+
+    {"id":"0601","group":"Wholesale Trade on a Fee or Contract Basis","classes":[
+      {"id":"060101","class":"Wholesale Trade on a Fee or Contract Basis"}
+    ]},
+    {"id":"0602","group":"Non-Specialized Wholesale Trade","classes":[
+      {"id":"060202","class":"Non-Specialized Wholesale Trade"}
+    ]},
+    {"id":"0603","group":"Specialized Wholesale Trade","classes":[
+      {"id":"060301","class":"Specialized Wholesale Trade - Agricultural Raw Materials and Live Animals"},
+      {"id":"060302","class":"Specialized Wholesale Trade - Other Raw Materials"},
+      {"id":"060303","class":"Specialized Wholesale Trade - Fuels and Related Products"},
+      {"id":"060304","class":"Specialized Wholesale Trade - Metals and Related Products"},
+      {"id":"060305","class":"Specialized Wholesale Trade - Machinery, Equipment, and Tools for Agriculture and Related"},
+      {"id":"060306","class":"Specialized Wholesale Trade - Machinery, Equipment, and Tools for Construction and Related"},
+      {"id":"060307","class":"Specialized Wholesale Trade - Machinery, Equipment, and Tools Not Elsewhere Classified"},
+      {"id":"060308","class":"Specialized Wholesale Trade - Information and Communication Technologies (ICT)"},
+      {"id":"060309","class":"Specialized Wholesale Trade - Household Goods"},
+      {"id":"060310","class":"Specialized Wholesale Trade - Apparel, Footwear, Textiles, and Related"},
+      {"id":"060311","class":"Specialized Wholesale Trade - Food and Beverages, Pharmaceuticals and Tobacco"}
+    ]},
+    {"id":"0604","group":"Wholesale and Retail Trade of Transport","classes":[
+      {"id":"060401","class":"Wholesale and Retail Trade of Transport"}
+    ]},
+    {"id":"0605","group":"Specialized Retail Trade","classes":[
+      {"id":"060501","class":"Specialized Retail Trade - Automotive Fuel"},
+      {"id":"060502","class":"Specialized Retail Trade - Information and Communication Technologies (ICT)"},
+      {"id":"060503","class":"Specialized Retail Trade - Arts, Culture, Entertainment, Recreation, Sports"},
+      {"id":"060504","class":"Specialized Retail Trade - Household Goods"},
+      {"id":"060505","class":"Specialized Retail Trade - Apparel, Footwear, Textiles, and Related"},
+      {"id":"060506","class":"Specialized Retail Trade - Food, Beverages, and Tobacco"},
+      {"id":"060507","class":"Specialized Retail Trade - Pharmaceuticals and Related Products"},
+      {"id":"060508","class":"Specialized Retail Trade - Second-Hand Goods"},
+      {"id":"060509","class":"Specialized Retail Trade - Other Goods"}
+    ]},
+    {"id":"0606","group":"Non-Specialized Retail Trade","classes":[
+      {"id":"060601","class":"Non-Specialized Retail Trade"}
+    ]},
+    {"id":"0607","group":"Retail Trade via Markets","classes":[
+      {"id":"060701","class":"Retail Trade via Markets"}
+    ]},
+    {"id":"0608","group":"Retail Trade via Internet and Other Means","classes":[
+      {"id":"060801","class":"Retail Trade via Internet and Other Means"}
+    ]}
+  ]},
+
+
+
+  {"id":"07","sector":"Hospitality (HoReCa)","groups":[
+
+    {"id":"0701","group":"Accommodation","classes":[
+      {"id":"070101","class":"Accommodation - Indoor"},
+      {"id":"070102","class":"Accommodation - Outdoor"},
+      {"id":"070103","class":"Accommodation – Other"}
+    ]},
+    {"id":"0702","group":"Food and Beverage","classes":[
+      {"id":"070201","class":"Food and Beverage - Food and Beverage Serving Places"},
+      {"id":"070202","class":"Food and Beverage - Beverage Only Serving Places"},
+      {"id":"070203","class":"Food and Beverage - Event Catering Services"},
+      {"id":"070204","class":"Food and Beverage - Industrial Catering Services"}
+    ]}
+  ]},
+
+
+
+  {"id":"08","sector":"Arts, Culture, Entertainment, Recreation, Sports","groups":[
+
+    {"id":"0801","group":"Independent Public Figures (Celebrities)","classes":[
+      {"id":"080101","class":"Independent Public Figures (Celebrities)"}
+    ]},
+    {"id":"0802","group":"Arts","classes":[
+      {"id":"080201","class":"Fashion"},
+      {"id":"080202","class":"Performing Arts - Circus, Concert Halls, Theaters, and Similar Institutions"},
+      {"id":"080203","class":"Visual Arts - Galleries and Similar Institutions"}
+    ]},
+    {"id":"0803","group":"Culture","classes":[
+      {"id":"080301","class":"Culture - Libraries and Similar Institutions"},
+      {"id":"080302","class":"Culture - Museums and Similar Institutions"}
+    ]},
+    {"id":"0804","group":"Entertainment","classes":[
+      {"id":"080401","class":"Entertainment - Amusement Parks, Aquaparks, Theme Parks"},
+      {"id":"080402","class":"Entertainment - Arcades, Gambling and Betting, Lotteries"},
+      {"id":"080403","class":"Entertainment - Movie Theaters"},
+      {"id":"080404","class":"Entertainment - Night Clubs, Standup Comedy Clubs"},
+      {"id":"080405","class":"Entertainment - Shopping Centers"},
+      {"id":"080406","class":"Entertainment – Other"}
+    ]},
+    {"id":"0805","group":"Recreation","classes":[
+      {"id":"080501","class":"Recreation - Gardens, Parks, Zoos"},
+      {"id":"080502","class":"Recreation - Outdoor Activities"}
+    ]},
+    {"id":"0806","group":"Sports","classes":[
+      {"id":"080601","class":"Sports - Spectator Sports Facilities"},
+      {"id":"080602","class":"Sports - Other Sports Facilities"},
+      {"id":"080603","class":"Sports - Clubs, Teams, and Events"}
+    ]},
+    {"id":"0899","group":"Support Activities","classes":[
+      {"id":"089901","class":"Support Activities for Arts, Culture, Entertainment, Recreation, and Sports"}
+    ]}
+  ]},
+
+
+
+  {"id":"09","sector":"Information and Communication Technologies (ICT)","groups":[
+
+    {"id":"0901","group":"Audio and Video Production, Post-Production, Publishing, and Related","classes":[
+      {"id":"090101","class":"Audio Production"},
+      {"id":"090102","class":"Video Production"}
+    ]},
+    {"id":"0902","group":"Digital Production, Post-Production, Publishing, and Related","classes":[
+      {"id":"090201","class":"Digital Production - Animation"},
+      {"id":"090202","class":"Digital Production - Games"},
+      {"id":"090203","class":"Digital Production - Photography"},
+      {"id":"090204","class":"Digital Production – Software"}
+    ]},
+    {"id":"0903","group":"Print Production, Post-Production, Publishing, and Related","classes":[
+      {"id":"090301","class":"Print Production - Books"},
+      {"id":"090302","class":"Print Production - Periodicals"},
+      {"id":"090303","class":"Print Production – Other"}
+    ]},
+    {"id":"0904","group":"Programming and Broadcasting","classes":[
+      {"id":"090401","class":"Programming and Broadcasting - Radio"},
+      {"id":"090402","class":"Programming and Broadcasting – Television"}
+    ]},
+    {"id":"0905","group":"Telecommunications","classes":[
+      {"id":"090501","class":"Telecommunications - Satellite"},
+      {"id":"090502","class":"Telecommunications - Wired"},
+      {"id":"090503","class":"Telecommunications - Wireless"},
+      {"id":"090504","class":"Telecommunications - Other"}
+    ]}
+  ]},
+
+
+
+  {"id":"10","sector":"Professional, Scientific, Technical Services and Consultancy","groups":[
+
+    {"id":"1001","group":"Services and Consultancy in Business","classes":[
+      {"id":"100101","class":"Services and Consultancy in Accounting, Audit, Finance, Tax Preparation"},
+      {"id":"100102","class":"Services and Consultancy in Advertising, Marketing, Public Relations, Sales"},
+      {"id":"100103","class":"Services and Consultancy in Management"},
+      {"id":"100104","class":"Legal Services and Consultancy"}
+    ]},
+    {"id":"1002","group":"Services and Consultancy in Architecture and Engineering","classes":[
+      {"id":"100201","class":"Services and Consultancy in Architecture and Engineering"},
+      {"id":"100202","class":"Technical Testing and Analysis"}
+    ]},
+    {"id":"1003","group":"Services and Consultancy in Design","classes":[
+      {"id":"100301","class":"Services and Consultancy in Design"}
+    ]},
+    {"id":"1004","group":"Services and Consultancy in Information Technology (IT)","classes":[
+      {"id":"100401","class":"Computer Software Design and Development"},
+      {"id":"100402","class":"Computer Systems Design and Development"},
+      {"id":"100403","class":"Data Processing, Hosting, and Related Services"}
+    ]},
+    {"id":"1005","group":"Services and Consultancy in Other Fields","classes":[
+      {"id":"100501","class":"Services and Consultancy in Other Fields"}
+    ]},
+    {"id":"1006","group":"Research and Development (R&D)","classes":[
+      {"id":"100601","class":"Research and Development (R&D) in Social Sciences"},
+      {"id":"100602","class":"Research and Development (R&D) in Other Sciences"},
+      {"id":"100603","class":"Research and Development (R&D) - Interdisciplinary"}
+    ]}
+  ]},
+
+
+
+  {"id":"11","sector":"Business and Facilities Support","groups":[
+
+    {"id":"1101","group":"Business Support Services","classes":[
+      {"id":"110101","class":"Administrative Support Services"},
+      {"id":"110102","class":"Call Centers"},
+      {"id":"110103","class":"Collection Agencies and Credit Bureaus"},
+      {"id":"110104","class":"Conferences, Conventions, Exhibitions, Trade Shows, and Related"},
+      {"id":"110105","class":"Employment Services"},
+      {"id":"110106","class":"Packaging Services"},
+      {"id":"110107","class":"Printing and Related Services"}
+    ]},
+    {"id":"1102","group":"Facilities Support Services","classes":[
+      {"id":"110201","class":"Facilities Support Services - Combined"},
+      {"id":"110202","class":"Facilities Support Services - Cleaning"},
+      {"id":"110203","class":"Facilities Support Services - Landscape Care and Maintenance"}
+    ]}
+  ]},
+
+
+
+  {"id":"12","sector":"Other Services","groups":[
+
+    {"id":"1201","group":"Maintenance and Repair (incl. Installation and Deinstallation)","classes":[
+      {"id":"120101","class":"Maintenance and Repair - Transport"},
+      {"id":"120102","class":"Maintenance and Repair - Industrial Machinery, Equipment, and Tools"},
+      {"id":"120103","class":"Maintenance and Repair - Professional Equipment and Tools"},
+      {"id":"120104","class":"Maintenance and Repair - Personal, Home, and Office Appliances"},
+      {"id":"120105","class":"Maintenance and Repair - Furniture, Textiles, Toys, and Related"},
+      {"id":"120106","class":"Maintenance and Repair - Apparel, Footwear, Luggage, and Related"},
+      {"id":"120107","class":"Maintenance and Repair - Other Miscellaneous Products"}
+    ]},
+    {"id":"1202","group":"Investigation and Security","classes":[
+      {"id":"120201","class":"Investigation Services"},
+      {"id":"120202","class":"Security Services - Private Protection"},
+      {"id":"120203","class":"Security Services - Security Systems"}
+    ]},
+    {"id":"1203","group":"Travel Arrangement and Reservation","classes":[
+      {"id":"120301","class":"Travel Arrangement and Reservation"}
+    ]},
+    {"id":"1204","group":"Personal Services","classes":[
+      {"id":"120401","class":"Personal Services - Beauty and Personal Care"},
+      {"id":"120402","class":"Personal Services - Drycleaning and Laundry"},
+      {"id":"120403","class":"Personal Services - Funeral Services"},
+      {"id":"120404","class":"Personal Services - Other"}
+    ]}
+  ]},
+
+
+
+  {"id":"13","sector":"Finance and Insurance","groups":[
+
+    {"id":"1301","group":"Financial Services","classes":[
+      {"id":"130101","class":"Financial Services - Funds, Trusts, and Similar Entities"},
+      {"id":"130102","class":"Financial Services - Holdings"},
+      {"id":"130103","class":"Financial Services - Intermediaries"},
+      {"id":"130104","class":"Financial Services – Other"}
+    ]},
+    {"id":"1302","group":"Insurance and Reinsurance","classes":[
+      {"id":"130201","class":"Insurance Services - Life"},
+      {"id":"130202","class":"Insurance Services - Non-Life"},
+      {"id":"130203","class":"Reinsurance Services"}
+    ]},
+    {"id":"1399","group":"Auxiliary Activities","classes":[
+      {"id":"139901","class":"Activities Auxiliary to Financial Services"},
+      {"id":"139902","class":"Activities Auxiliary to Insurance and Reinsurance"},
+      {"id":"139903","class":"Fund Management Services"}
+    ]}
+  ]},
+
+
+
+  {"id":"14","sector":"Real Estate, Rental and Leasing","groups":[
+
+    {"id":"1401","group":"Real Estate","classes":[
+      {"id":"140101","class":"Real Estate - Services on a Fee or Contract Basis"},
+      {"id":"140102","class":"Real Estate - Services with Own or Leased Property"}
+    ]},
+    {"id":"1402","group":"Rental and Leasing","classes":[
+      {"id":"140201","class":"Rental and Leasing - Animals"},
+      {"id":"140202","class":"Rental and Leasing - Transport"},
+      {"id":"140203","class":"Rental and Leasing - Industrial Machinery, Equipment, and Tools"},
+      {"id":"140204","class":"Rental and Leasing - Professional Equipment and Tools"},
+      {"id":"140205","class":"Rental and Leasing - Personal, Home, and Office Appliances"},
+      {"id":"140206","class":"Rental and Leasing - Furniture, Textiles, and Related"},
+      {"id":"140207","class":"Rental and Leasing - Apparel, Footwear, Luggage, and Related"},
+      {"id":"140208","class":"Rental and Leasing - Other Miscellaneous Products"},
+      {"id":"140209","class":"Rental and Leasing - Intangible Assets"}
+    ]}
+  ]},
+
+
+
+  {"id":"15","sector":"Membership Organizations","groups":[
+
+    {"id":"1501","group":"Membership Organizations","classes":[
+      {"id":"150101","class":"Membership Organizations - Business and Related"},
+      {"id":"150102","class":"Membership Organizations - Political"},
+      {"id":"150103","class":"Membership Organizations - Religious"},
+      {"id":"150104","class":"Membership Organizations - Social"},
+      {"id":"150105","class":"Membership Organizations - Other"}
+    ]}
+  ]},
+
+
+
+  {"id":"16","sector":"Education","groups":[
+
+    {"id":"1601","group":"Pre-Primary Education","classes":[
+      {"id":"160101","class":"Pre-Primary Education"}
+    ]},
+    {"id":"1602","group":"Primary Education","classes":[
+      {"id":"160201","class":"Primary Education"}
+    ]},
+    {"id":"1603","group":"Secondary Education","classes":[
+      {"id":"160301","class":"Secondary Education"}
+    ]},
+    {"id":"1604","group":"Tertiary Education","classes":[
+      {"id":"160401","class":"Tertiary Education"}
+    ]},
+    {"id":"1605","group":"Other Education","classes":[
+      {"id":"160501","class":"Other Education - Arts, Culture, Entertainment, Languages"},
+      {"id":"160502","class":"Other Education - Recreation and Sports"},
+      {"id":"160503","class":"Other Education - Technical and Vocational Education"},
+      {"id":"160504","class":"Other Education - Not Elsewhere Classified"}
+    ]},
+    {"id":"1699","group":"Support Activities","classes":[
+      {"id":"169901","class":"Support Activities for Education"}
+    ]}
+  ]},
+
+
+
+  {"id":"17","sector":"Healthcare and Welfare","groups":[
+
+    {"id":"1701","group":"Health Care Services (with or without accomodation)","classes":[
+      {"id":"170101","class":"Health Care Services - Clinics and Hospitals"},
+      {"id":"170102","class":"Health Care Services - Medical and Dental Practices"},
+      {"id":"170103","class":"Health Care Services - Medical and Diagnostic Laboratories"},
+      {"id":"170104","class":"Health Care Services – Other"}
+    ]},
+    {"id":"1702","group":"Residential Care Services (with accomodation)","classes":[
+      {"id":"170201","class":"Residential Care Services for Mental Health, Mental Retardation, and Substance Abuse"},
+      {"id":"170202","class":"Residential Care Services for the Elderly and Disabled"},
+      {"id":"170203","class":"Residential Care Services - Nursing Care Facilities"},
+      {"id":"170204","class":"Residential Care Services – Other"}
+    ]},
+    {"id":"1703","group":"Social Assistance (without accomodation)","classes":[
+      {"id":"170301","class":"Social Assistance for the Elderly and Disabled"},
+      {"id":"170302","class":"Social Assistance - Individual, Family, and Community Services"}
+    ]},
+    {"id":"1704","group":"Veterinary and Pet Care","classes":[
+      {"id":"170401","class":"Veterinary Services"},
+      {"id":"170402","class":"Pet Care Services"}
+    ]}
+  ]},
+
+
+
+  {"id":"18","sector":"Utilities","groups":[
+
+    {"id":"1801","group":"Cooling and Heating","classes":[
+      {"id":"180101","class":"Cooling and Heating"}
+    ]},
+    {"id":"1802","group":"Electricity","classes":[
+      {"id":"180201","class":"Electricity - Electric Power Generation, Transmission, and Distribution"}
+    ]},
+    {"id":"1803","group":"Gas","classes":[
+      {"id":"180301","class":"Gas - Natural Gas Distribution"}
+    ]},
+    {"id":"1804","group":"Water","classes":[
+      {"id":"180401","class":"Water - Water Collection, Treatment, and Distribution"}
+    ]}
+  ]},
+
+
+
+  {"id":"19","sector":"Waste Management, Materials Recovery, Remediation","groups":[
+
+    {"id":"1901","group":"Waste Collection","classes":[
+      {"id":"190101","class":"Waste Collection - Non-Hazardous Waste"},
+      {"id":"190102","class":"Waste Collection - Hazardous Waste"}
+    ]},
+    {"id":"1902","group":"Waste Treatment and Disposal","classes":[
+      {"id":"190201","class":"Waste Treatment and Disposal - Non-Hazardous Waste"},
+      {"id":"190202","class":"Waste Treatment and Disposal - Hazardous Waste"}
+    ]},
+    {"id":"1903","group":"Materials Recovery","classes":[
+      {"id":"190301","class":"Materials Recovery"}
+    ]},
+    {"id":"1904","group":"Remediation and Other Services","classes":[
+      {"id":"190401","class":"Remediation and Other Services"}
+    ]}
+  ]},
+
+
+
+  {"id":"99","sector":"Government","groups":[
+
+    {"id":"9999","group":"Government","classes":[
+      {"id":"999999","class":"Government"}
+    ]}
+  ]}
+]}
