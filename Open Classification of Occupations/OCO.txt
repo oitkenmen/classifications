@@ -139,21 +139,21 @@ B GROUPS
 433 Professionals in Secondary Education
 434 Professionals in Tertiary Education
 435 Professionals in Vocational Education
-439 Professionals in Education – Other
+439 Professionals in Education - Other
 
 44 Professionals in Healthcare and Welfare
 441 Professionals in Medicine
 442 Professionals in Nursing and Midwifery
 443 Professionals in Traditional and Complementary Medicine
 444 Professionals in Veterinary Medicine
-449 Professionals in Healthcare and Welfare – Other
+449 Professionals in Healthcare and Welfare - Other
 
 45 Professionals in Hospitality (HoReCa) and Tourism
 451 Professionals in Hospitality (HoReCa) and Tourism
 
 46 Professionals in Information and Communication Technologies (ICT)
-462 Professionals in ICT - Databases and Networks
-461 Professionals in ICT – Software
+461 Professionals in ICT - Databases and Networks
+462 Professionals in ICT - Software
 
 47 Professionals in Production and Related Services
 471 Professionals in Agriculture, Aquaculture, Forestry, and Related
@@ -179,13 +179,13 @@ B GROUPS
 311 Associate Professionals in Architecture and Design
 312 Associate Professionals in Engineering
 313 Associate Professionals in Sciences
-319 Associate Professionals in Architecture, Design, Engineering, and Sciences – Other
+319 Associate Professionals in Architecture, Design, Engineering, and Sciences - Other
 
 32 Associate Professionals in Arts, Culture, Entertainment, Media, Recreation, and Sports
 321 Associate Professionals in Arts, Entertainment, and Media
 322 Associate Professionals in Culture and Related
 323 Associate Professionals in Recreation and Sports
-329 Associate Professionals in Arts, Culture, Entertainment, Media, Recreation, and Sports – Other
+329 Associate Professionals in Arts, Culture, Entertainment, Media, Recreation, and Sports - Other
 
 33 Associate Professionals in Education
 331 Associate Professionals in Education
@@ -195,7 +195,7 @@ B GROUPS
 342 Associate Professionals in Nursing and Midwifery
 343 Associate Professionals in Traditional and Complementary Medicine
 344 Associate Professionals in Veterinary Medicine
-349 Associate Professionals in Healthcare and Welfare – Other
+349 Associate Professionals in Healthcare and Welfare - Other
 
 35 Associate Professionals in Hospitality (HoReCa) and Tourism
 351 Associate Professionals in Hospitality (HoReCa) and Tourism
