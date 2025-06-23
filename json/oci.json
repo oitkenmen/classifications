@@ -332,7 +332,7 @@
       {"id":"060101","class":"Wholesale Trade on a Fee or Contract Basis"}
     ]},
     {"id":"0602","group":"Non-Specialized Wholesale Trade","classes":[
-      {"id":"060202","class":"Non-Specialized Wholesale Trade"}
+      {"id":"060201","class":"Non-Specialized Wholesale Trade"}
     ]},
     {"id":"0603","group":"Specialized Wholesale Trade","classes":[
       {"id":"060301","class":"Specialized Wholesale Trade - Agricultural Raw Materials and Live Animals"},
