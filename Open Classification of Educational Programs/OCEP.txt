@@ -239,10 +239,10 @@ C CLASSES
 0900 Interdisciplinary Programs and Qualifications
 
 091 Arts, Design, and Related
-0912 Design
-0913 Fine Arts
-0914 Handicrafts
-0915 Music and Performing Arts
+0911 Design
+0912 Fine Arts
+0913 Handicrafts
+0914 Music and Performing Arts
 
 092 Humanities (excl. Languages)
 0921 History and Archeology
