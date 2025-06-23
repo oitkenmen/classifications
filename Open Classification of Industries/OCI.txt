@@ -539,7 +539,7 @@ C CLASSES
 060101 Wholesale Trade on a Fee or Contract Basis
 
 0602 Non-Specialized Wholesale Trade
-060202 Non-Specialized Wholesale Trade
+060201 Non-Specialized Wholesale Trade
 
 0603 Specialized Wholesale Trade
 060301 Specialized Wholesale Trade - Agricultural Raw Materials and Live Animals
