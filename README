@@ -5,7 +5,7 @@ OPEN CLASSIFICATIONS
 ---
 OPEN CLASSIFICATION of EDUCATIONAL PROGRAMS
 
-This open classification was adapted from International Standard Classification of Education, Fields of Education and Training (ISCED-F 2013) which was developed by the United Nations Educational, Scientific and Cultural Organization (UNESCO) and was available in open access under the Creative Commons Attribution-ShareAlike (CC BY-SA) license.
+This open classification was adapted from International Standard Classification of Education, Fields of Education & Training (ISCED-F 2013) which was developed by the United Nations Educational, Scientific & Cultural Organization (UNESCO), and was available in open access under the Creative Commons Attribution-ShareAlike (CC BY-SA) license.
 
 Last modified August 18, 2021
 
@@ -23,7 +23,7 @@ DOC, JSON, PDF, TXT
 ---
 OPEN CLASSIFICATION of INDUSTRIES
 
-This open classification was adapted from International Standard Industrial Classification of All Economic Activities (ISIC, Revision 4) which was developed by the United Nations Statistics Division and is subject to copyright. As well as North American Industry Classification System (NAICS) which was developed by the statistical agencies of Canada, Mexico, and the United States and is subject to copyright.
+This open classification was adapted from International Standard Industrial Classification of All Economic Activities (ISIC, Revision 4) which was developed by the statistics division of the United Nations. As well as Classification of Economic Activities (NACE, Revision 2) which was developed by the statistical office of the European Union (Eurostat). As well as North American Industry Classification System (NAICS) which was developed by the statistical agencies of Canada, Mexico, & the United States. All are subject to copyright.
 
 Last modified August 13, 2021
 
@@ -41,7 +41,7 @@ DOC, JSON, PDF, TXT
 ---
 OPEN CLASSIFICATION of OCCUPATIONS
 
-This open classification was adapted from International Standard Classification of Occupations (ISCO-08) which was developed by the International Labour Organization (ILO) and is subject to copyright. As well as Standard Occupational Classification (SOC 2018) which was developed by the United States Bureau of Labor Statistics and is subject to copyright.
+This open classification was adapted from International Standard Classification of Occupations (ISCO-08) which was developed by the International Labour Organization (ILO), and is subject to copyright. As well as Standard Occupational Classification (SOC 2018) which was developed by the United States Bureau of Labor Statistics, and is subject to copyright too.
 
 Last modified August 22, 2021
 
@@ -59,7 +59,9 @@ DOC, JSON, PDF, TXT
 ---
 OPEN CLASSIFICATION of PRODUCTS
 
-(work in progress)
+This open classification was adapted from Central Product Classification (CPC) which was developed by the statistics division of the United Nations, and is subject to copyright. As well as Classification of Products by Activity (CPA) which was developed by the statistical office of the European Union (Eurostat), and is subject to copyright too.
+
+Currently in development
 
 
 
