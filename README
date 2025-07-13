@@ -1,5 +1,11 @@
 OPEN CLASSIFICATIONS
 
+In 2021, working on Talentli, a merit-based scoring system to search people, I've realized that the system required some built-in classifications. Such as a classification of educational programs, so that you can filter people by study field. Or a classification of industries, so that you can filter people by job field. Or a classification of occupations, so that you can sort & rank people objectively.
+
+After some search on the Internet, I've noticed that many existing classifications are copyrighted. Also, they are made by different organizations and they are not consistent with each other – in numbering & naming of the classes. As a result, I've decided to spend some time and make the standardized open classifications available below, both online and in other formats.
+
+These open classifications are dedicated to the public domain under a Creative Commons CC0 1.0 license. Anyone can make a contribution via GitHub. If you have any questions, comments, or feedback, please do not hesitate to contact me at hello@nicktoa.com
+
 
 
 ---
@@ -23,7 +29,7 @@ DOC, JSON, PDF, TXT
 ---
 OPEN CLASSIFICATION of INDUSTRIES
 
-This open classification was adapted from International Standard Industrial Classification of All Economic Activities (ISIC, Revision 4) which was developed by the statistics division of the United Nations. As well as Classification of Economic Activities (NACE, Revision 2) which was developed by the statistical office of the European Union (Eurostat). As well as North American Industry Classification System (NAICS) which was developed by the statistical agencies of Canada, Mexico, & the United States. All are subject to copyright.
+This open classification was adapted from International Standard Industrial Classification of All Economic Activities (ISIC, Revision 4) which was developed by the statistics division of the United Nations, and is subject to copyright. As well as Classification of Economic Activities (NACE, Revision 2) which was developed by the statistical office of the European Union (Eurostat), and is available in open access. As well as North American Industry Classification System (NAICS) which was developed by the statistical agencies of Canada, Mexico, & the United States,  and is subject to copyright.
 
 Last modified August 13, 2021
 
@@ -41,7 +47,7 @@ DOC, JSON, PDF, TXT
 ---
 OPEN CLASSIFICATION of OCCUPATIONS
 
-This open classification was adapted from International Standard Classification of Occupations (ISCO-08) which was developed by the International Labour Organization (ILO), and is subject to copyright. As well as Standard Occupational Classification (SOC 2018) which was developed by the United States Bureau of Labor Statistics, and is subject to copyright too.
+This open classification was adapted from International Standard Classification of Occupations (ISCO-08) which was developed by the International Labour Organization (ILO), and is available in open access. As well as Standard Occupational Classification (SOC 2018) which was developed by the United States Bureau of Labor Statistics, and is available in open access.
 
 Last modified August 22, 2021
 
@@ -59,11 +65,8 @@ DOC, JSON, PDF, TXT
 ---
 OPEN CLASSIFICATION of PRODUCTS
 
-This open classification was adapted from Central Product Classification (CPC) which was developed by the statistics division of the United Nations, and is subject to copyright. As well as Classification of Products by Activity (CPA) which was developed by the statistical office of the European Union (Eurostat), and is subject to copyright too.
+This open classification was adapted from Central Product Classification (CPC) which was developed by the statistics division of the United Nations, and is subject to copyright. As well as Classification of Products by Activity (CPA) which was developed by the statistical office of the European Union (Eurostat), and is available in open access.
 
 Currently in development
 
 
-
----
-These classifications are dedicated to the public domain under a Creative Commons CC0 1.0 license. If you have any questions, comments, or feedback, please do not hesitate to contact Nick Toa at hello@nicktoa.com
